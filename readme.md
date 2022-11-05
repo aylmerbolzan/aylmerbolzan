@@ -14,7 +14,7 @@ Buscando agregar conhecimentos, atualmente estou fazendo o curso de Desenvolvime
 
 <div align="center">
 
-👨‍💻 Estudando   | 💻 Ferramentas 
+👨‍💻 Estudando Atualmente   | 💻 Ferramentas que Utilizo
 --------- | ------
 ☑️ HTML 5  | ☑️ VisualStudio Code
 ☑️ CSS 3  | ☑️ Photoshop
