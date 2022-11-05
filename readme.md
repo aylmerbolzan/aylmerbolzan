@@ -1,8 +1,10 @@
-## Olá! muito prazer, sinta-se em casa 👋
+## Olá! muito prazer,  👋
 
 <br>
 
-Eu me chamo Aylmer Bolzan, tenho 30 anos e moro em Domingos Martins/ES. Sempre trabalhando em torno da área tech, desde os 12 anos, tive a oportunidades de adquirir várias skills que hoje compõem o profissional que sou. Dentre elas:
+Me chamo Aylmer Bolzan, tenho 30 anos e moro na área rural de Domingos Martins/ES, codando diretamente do meio da mata.
+
+Sempre trabalhei em torno da área tech, desde os 12 anos, tive a oportunidades de adquirir várias skills que hoje compõem o profissional que sou. Dentre elas, cito:
 
 - Criação e design gráfico
 - Produção audiovisual
@@ -30,9 +32,9 @@ Buscando agregar conhecimentos, atualmente estou fazendo o curso de Desenvolvime
 <div style="display: inline;">
 
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=aylmerbolzan&bc=ebebeb&ic=0E8AD9&theme=dark" alt="aylmerbolzan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aylmerbolzan" alt="aylmerbolzan" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylmerbolzan" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aylmerbolzan&theme=github" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aylmerbolzan" alt="aylmerbolzan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylmerbolzan" /></p>
 </div>
 
 <div style="display: inline_block"><br>
@@ -44,7 +46,9 @@ Buscando agregar conhecimentos, atualmente estou fazendo o curso de Desenvolvime
   |
   <img align="center" alt="Aylmer-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="Aylmer-Magento" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/magento/magento-original.svg">
-  |
+  
+<p></p>
+
   <img align="center" alt="Aylmer-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Aylmer-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
   <img align="center" alt="Aylmer-Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
