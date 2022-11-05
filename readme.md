@@ -30,8 +30,8 @@ Buscando agregar conhecimentos, atualmente estou fazendo o curso de Desenvolvime
 <div style="display: inline;">
 
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=aylmerbolzan&bc=ebebeb&ic=0E8AD9&theme=dark" alt="aylmerbolzan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aylmerbolzan&theme=dark" alt="aylmerbolzan" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylmerbolzan&theme=rose_pine" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aylmerbolzan" alt="aylmerbolzan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylmerbolzan" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aylmerbolzan&theme=github" /></p>
 </div>
 
