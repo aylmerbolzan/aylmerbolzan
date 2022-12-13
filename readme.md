@@ -2,9 +2,9 @@
 
 <br>
 
-Me chamo Aylmer Bolzan, tenho 30 anos e moro na área rural de Domingos Martins/ES, codando diretamente do meio da mata.
+Me chamo Aylmer Bolzan, tenho 30 anos e moro na área rural de Domingos Martins/ES, codando diretamente do meio da mata. 🌱
 
-Sempre trabalhei em torno da área tech, desde os 12 anos, tive a oportunidades de adquirir várias skills que hoje compõem o profissional que sou. Dentre elas, cito:
+Desde os 12 anos de idade trabalho em torno da área tech, onde tive a oportunidades de adquirir várias skills que hoje compõem o profissional que sou. Dentre elas, cito:
 
 - Criação e design gráfico
 - Produção audiovisual
@@ -20,8 +20,8 @@ Buscando agregar conhecimentos, atualmente estou fazendo o curso de Desenvolvime
 --------- | ------
 ☑️ HTML 5  | ☑️ VisualStudio Code
 ☑️ CSS 3  | ☑️ Photoshop
-☑️ JavaScript  | ☑️ Illustrator
-☑️ Bootstrap 5  | ☑️ Canva
+☑️ Bootstrap 5  | ☑️ Illustrator
+☑️ JavaScript  | ☑️ Canva
 ☑️ Python  | ☑️ Premiere
 ☑️ Node.js  | ☑️ Trello
 ☑️ Sequelize  | ☑️ Bitrix24
