@@ -2,17 +2,17 @@
 
 <br>
 
-Me chamo Aylmer Bolzan, tenho 30 anos e moro na área rural de Domingos Martins/ES, codando diretamente do meio da mata. 🌱
+Me chamo Aylmer Bolzan, tenho 31 anos e moro na área rural de Domingos Martins/ES, codando diretamente do meio da selva. 🌱
 
-Desde os 12 anos de idade trabalho em torno da área tech, onde tive a oportunidades de adquirir várias skills que hoje compõem o profissional que sou. Dentre elas, cito:
+Desde os 12 anos de idade, já me envolvia em torno da área tech, posteriormente me profissionalizando. Tive a oportunidades de adquirir várias skills que hoje compõem o profissional que sou. Dentre elas, cito:
 
-- Criação e design gráfico
-- Produção audiovisual
-- E-commerce e varejo digital
-- Gestão de tráfego pago
+- Criação e Design Gráfico
+- Produção Audiovisual
+- E-commerce e Varejo Digital
+- Gestão de Tráfego e Performance
 - Business Intelligence
 
-Buscando agregar conhecimentos, atualmente estou fazendo o curso de Desenvolvimento de Sistemas Web, ministrado pelo IFES Cachoeiro de Itapemirim, no intuito de me tornar um desenvolvedor fullstack, podendo integrar todos esses conhecimentos adquiridos para trazer solução e inovação a problemas da atualidade.
+Atualmente estou cursando Desenvolvimento de Sistemas Web, pelo IFES Cachoeiro de Itapemirim e participando do programa Oracle Next Education, oferecido pela Oracle em parceria com a Alura, sempre buscando conhecimento para agregar ainda mais às minhas habilidades atuais.
 
 <div align="center">
 
@@ -21,10 +21,9 @@ Buscando agregar conhecimentos, atualmente estou fazendo o curso de Desenvolvime
 ☑️ HTML 5  | ☑️ VisualStudio Code
 ☑️ CSS 3  | ☑️ Photoshop
 ☑️ Bootstrap 5  | ☑️ Illustrator
-☑️ JavaScript  | ☑️ Canva
-☑️ Python  | ☑️ Premiere
-☑️ Node.js  | ☑️ Trello
-☑️ Sequelize  | ☑️ Bitrix24
+☑️ JavaScript  | ☑️ Premiere
+☑️ Python  | ☑️ Trello
+☑️ Node.js  | ☑️ Bitrix24
 
 
 ---
