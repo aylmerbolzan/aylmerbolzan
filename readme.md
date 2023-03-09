@@ -51,7 +51,6 @@ Atualmente estou cursando Desenvolvimento de Sistemas Web, pelo IFES Cachoeiro d
   <img align="center" alt="Aylmer-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Aylmer-Illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
   <img align="center" alt="Aylmer-Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
-  <img align="center" alt="Aylmer-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   |
   <img align="center" alt="Aylmer-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Aylmer-Opera" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opera/opera-original.svg">
