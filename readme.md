@@ -2,7 +2,7 @@
 
     
 <div align="center">
-<b>Desenvolvedor Front-End | Estudante Back-End | E-commerce | Marketing</b>
+<b>Dev Front-End | Std Back-End | E-commerce | Marketing</b>
 <br>
 <br>
 
@@ -17,13 +17,13 @@
 
  <div align="center">
 
-  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5527998993129) 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aylmerbolzan) 
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=aylmerbolzan) 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/aylmerbolzan) 
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/aylmerbolzan) 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aylmer.bolzan@gmail.com) 
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/930384476234743808) 
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-fbfbfb?logo=whatsapp&logoColor=25D366)](https://wa.me/5527998993129) 
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-fbfbfb?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/aylmerbolzan) 
+  [![Twitter](https://img.shields.io/badge/Twitter-fbfbfb?logo=twitter&logoColor=1DA1F2)](https://twitter.com/intent/follow?screen_name=aylmerbolzan) 
+  [![Instagram](https://img.shields.io/badge/Instagram-fbfbfb?logo=instagram&logoColor=E4405F)](https://instagram.com/aylmerbolzan) 
+  [![Telegram](https://img.shields.io/badge/Telegram-fbfbfb?logo=telegram&logoColor=2CA5E0)](https://t.me/aylmerbolzan) 
+  [![Gmail](https://img.shields.io/badge/Gmail-fbfbfb?logo=gmail&logoColor=D14836)](mailto:aylmer.bolzan@gmail.com) 
+  [![Discord](https://img.shields.io/badge/Discord-fbfbfb?logo=discord&logoColor=5865F2)](https://discord.com/users/930384476234743808) 
 
 </div>
 
@@ -39,7 +39,7 @@
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/aylmerbolzan">
-        <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylmerbolzan&theme=dracula"
+        <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylmerbolzan&theme=dracula&custom_title=Linguagens%20mais%20utilizadas:"
        alt="Most used languages" align="right">
     </a>
 </div>
@@ -59,25 +59,35 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <details closed>
 <summary><strong>Estatísticas</strong></summary>
-
-<div align="center">
-
-
-|   |   |
-| :---: | :---: |
-| ![Profile](https://github-stats-alpha.vercel.app/api?username=aylmerbolzan&cc=2A2E36&tc=78d6f6&ic=fe6e95&bc=fff) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aylmerbolzan&theme=dracula) |
-| ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=aylmerbolzan&theme=dracula&locale=pt_BR) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=aylmerbolzan&show_icons=true&theme=dracula) |
-| ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aylmerbolzan&theme=dracula) | ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aylmerbolzan&theme=dracula) |
-
-![Contribuition Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aylmerbolzan&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&hide_border=true)
-
-|   |   |
-| --- | --- |
-| ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aylmerbolzan&theme=dracula&utcOffset=-3) | ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aylmerbolzan&theme=dracula) |
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=aylmerbolzan&theme=dracula&margin-w=15&margin-h=15)
-
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-stats-alpha.vercel.app/api?username=aylmerbolzan&cc=2A2E36&tc=78d6f6&ic=fe6e95&bc=fff" alt="Profile" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aylmerbolzan&theme=dracula&hide=text&custom_title=Desenvolvendo%20nessa%20semana:" alt="Wakatime Stats" width="44%">
 </div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aylmerbolzan&theme=dracula&locale=pt_BR" alt="Streaks" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=aylmerbolzan&show_icons=true&theme=dracula&custom_title=Status%20do%20GitHub:" alt="Github Stats" width="45%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aylmerbolzan&theme=dracula" alt="Top Language by Commit" width="45%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aylmerbolzan&theme=dracula" alt="Top Language by Repo" width="45%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aylmerbolzan&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições:" alt="Top Contribuition Graph" width="90%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aylmerbolzan&theme=dracula&utcOffset=-3" alt="Commits" width="29%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aylmerbolzan&theme=dracula" alt="Details" width="61%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=aylmerbolzan&theme=dracula&margin-w=15&margin-h=15" alt="Trophy" width="90%">
+</div>
+<br>
 
 </details>
 
@@ -315,16 +325,17 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Looc
 
 <details closed>
 <summary><strong>Repositórios Destaques</strong></summary>
-
-<div align="center">
-
-
-
-
- <div> | </div> 
- ---------: | :------ 
-[![Hackaton](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=1-Hackaton-Reprograme-se&theme=dracula)](https://github.com/aylmerbolzan/1-Hackaton-Reprograme-se)   | [![devNotes](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=devNotes&theme=dracula)](https://github.com/aylmerbolzan/devNotes) 
-[![As Aventuras de Maite](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=As-Aventuras-de-Maite&theme=dracula)](https://github.com/aylmerbolzan/As-Aventuras-de-Maite)   | [![Calculadora de IMC](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=Calculadora-de-IMC&theme=dracula)](https://github.com/aylmerbolzan/Calculadora-de-IMC) 
-[![NLW 10](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=NLW.Rocketseat.10-Copa-2022&theme=dracula)](https://github.com/aylmerbolzan/NLW.Rocketseat.10-Copa-2022)   | [![NLW 11](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=NLW.Rocketseat.11-Setup-2023&theme=dracula)](https://github.com/aylmerbolzan/NLW.Rocketseat.11-Setup-2023) 
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <a href="https://github.com/aylmerbolzan/1-Hackaton-Reprograme-se"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=1-Hackaton-Reprograme-se&theme=dracula" alt="Hackaton" ></a>
+  <a href="https://github.com/aylmerbolzan/As-Aventuras-de-Maite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=As-Aventuras-de-Maite&theme=dracula" alt="As Aventuras de Maitê" ></a>
+</div>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <a href="https://github.com/aylmerbolzan/devNotes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=devNotes&theme=dracula" alt="devNotes"></a>
+  <a href="https://github.com/aylmerbolzan/Calculadora-de-IMC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=Calculadora-de-IMC&theme=dracula" alt="Calculadora de IMC"></a>
+</div>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <a href="https://github.com/aylmerbolzan/NLW.Rocketseat.10-Copa-2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=NLW.Rocketseat.10-Copa-2022&theme=dracula" alt="NLW 10"></a>
+  <a href="https://github.com/aylmerbolzan/NLW.Rocketseat.11-Setup-2023"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=NLW.Rocketseat.11-Setup-2023&theme=dracula" alt="NLW 11"></a>
 </div>
 </details>
