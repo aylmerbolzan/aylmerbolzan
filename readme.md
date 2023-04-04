@@ -1,4 +1,3 @@
-
 <h1 align="center"> Aylmer Bolzan </h1>
 
     
@@ -314,4 +313,18 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Looc
 </details>
 
 
+<details closed>
+<summary><strong>Repositórios Destaques</strong></summary>
 
+<div align="center">
+
+
+
+
+ <div> | </div> 
+---------: | :------
+[![Hackaton](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=1-Hackaton-Reprograme-se&theme=dracula)](https://github.com/aylmerbolzan/1-Hackaton-Reprograme-se)   | [![Reprograme-se](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=IFES.Reprograme-se&theme=dracula)](https://github.com/aylmerbolzan/IFES.Reprograme-se) 
+[![As Aventuras de Maite](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=As-Aventuras-de-Maite&theme=dracula)](https://github.com/aylmerbolzan/As-Aventuras-de-Maite)   | [![devNotes](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=devNotes&theme=dracula)](https://github.com/aylmerbolzan/devNotes) 
+[![NLW 2010](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=NLW.Rocketseat.10-Copa-2022&theme=dracula)](https://github.com/aylmerbolzan/NLW.Rocketseat.10-Copa-2022)   | [![ONE](https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=Oracle-Next-Education-T4&theme=dracula)](https://github.com/aylmerbolzan/Oracle-Next-Education-T4) 
+</div>
+</details>
