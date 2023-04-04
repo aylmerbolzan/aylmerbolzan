@@ -76,7 +76,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aylmerbolzan&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições:" alt="Top Contribuition Graph" width="90%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aylmerbolzan&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es:&hide_border=true" alt="Top Contribuition Graph" width="90%">
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
