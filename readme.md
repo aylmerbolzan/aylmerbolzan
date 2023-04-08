@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #79DAFA"> Aylmer Bolzan </h1>
+<h1 align="center"> Aylmer Bolzan </h1>
 
 <div align="center">
 <b>Dev Front-End | Std Back-End | E-commerce | Marketing</b>
@@ -28,12 +28,11 @@
 <p>
 
 <details closed>
-<summary><strong>Sobre mim</strong></summary>
+<summary style="font-size: 16px; color: #79DAFA"><strong>Sobre mim</strong></summary>
 
 ---
 
 <div align="right" style="margin:auto">
-     <a href="https://www.linkedin.com/in/aylmerbolzan">
         <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylmerbolzan&theme=dracula&custom_title=Linguagens%20que%20mais%20utilizo:"
        alt="Most used languages" align="right">
     </a>
@@ -52,10 +51,9 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 </details>
 
 <details closed>
-<summary><strong>Estatísticas</strong></summary>
+<summary style="font-size: 16px; color: #79DAFA"><strong>Estatísticas</strong></summary>
 <div align="center">
 <br>
-<a href="https://www.linkedin.com/in/aylmerbolzan" style="text-decoration: none;">
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
   <img src="https://github-stats-alpha.vercel.app/api?username=aylmerbolzan&cc=2A2E36&tc=78d6f6&ic=fe6e95&bc=fff" alt="Profile" width="52%">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aylmerbolzan&theme=dracula&hide=text,git,xml&custom_title=Desenvolvido%20essa%20semana:" alt="Wakatime Stats" width="46%">
@@ -89,7 +87,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 </details>
 
 <details closed>
-<summary><strong> Tecnologias e Ferramentas</strong></summary>
+<summary style="font-size: 16px; color: #79DAFA"><strong> Tecnologias e Ferramentas</strong></summary>
 <br>
 
 #### Linguagens, Frameworks e Libraries
@@ -212,7 +210,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 </details>
 
 <details closed>
-<summary><strong>Competências e Experiência</strong></summary>
+<summary style="font-size: 16px; color: #79DAFA"><strong>Competências e Experiência</strong></summary>
 
 <br>
 
@@ -320,7 +318,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 
 <br>
 
-<summary><strong>Repositórios Destaques</strong></summary>
+<summary style="font-size: 16px; color: #79DAFA"><strong>Repositórios Destaques</strong></summary>
 <br>
 <div align="center">
 
