@@ -1,4 +1,4 @@
-<h1 align="center"> Aylmer Bolzan </h1>
+<h1 align="center"> <span style="color: #79dafa">Aylmer Bolzan</span></h1>
 
 <div align="center">
 <b>Dev Front-End | Std Back-End | E-commerce | Marketing</b>
@@ -28,7 +28,7 @@
 <p>
 
 <details closed>
-<summary style="font-size: 16px; color: #79DAFA"><strong>Sobre mim</strong></summary>
+<summary><strong>Sobre mim</strong></summary>
 
 ---
 
@@ -51,7 +51,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 </details>
 
 <details closed>
-<summary style="font-size: 16px; color: #79DAFA"><strong>Estatísticas</strong></summary>
+<summary><strong>Estatísticas</strong></summary>
 <div align="center">
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
@@ -87,10 +87,10 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 </details>
 
 <details closed>
-<summary style="font-size: 16px; color: #79DAFA"><strong> Tecnologias e Ferramentas</strong></summary>
+<summary><strong> Tecnologias e Ferramentas</strong></summary>
 <br>
 
-#### Linguagens, Frameworks e Libraries
+#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Linguagens, Frameworks e Libraries</span>
 
 ---
 
@@ -110,7 +110,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### IDEs, Databases e Recursos
+#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">IDEs, Databases e Recursos</span>
 
 ---
 
@@ -126,7 +126,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### Analytics
+#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Analytics</span>
 
 ---
 
@@ -139,7 +139,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### Design
+#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Design</span>
 
 ---
 
@@ -160,7 +160,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### E-commerce e Marketing
+#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">E-commerce e Marketing</span>
 
 ---
 
@@ -181,7 +181,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### Email Marketing
+#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Email Marketing</span>
 
 ---
 
@@ -191,7 +191,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### Office
+#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Office</span>
 
 ---
 
@@ -210,11 +210,11 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 </details>
 
 <details closed>
-<summary style="font-size: 16px; color: #79DAFA"><strong>Competências e Experiência</strong></summary>
+<summary><strong>Competências e Experiência</strong></summary>
 
 <br>
 
-#### Qualificação Profissional
+#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Qualificação Profissional</span>
 
 ---
 
@@ -243,8 +243,9 @@ Ferramentas & Tecnologias: `Tray Commerce`, `Google Ads`, `Facebook Ads`, `Taboo
 Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag Manager`, `RD Station`, `outras...`
 
 <br/>
+<br>
 
-#### Qualificação Acadêmica
+#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Qualificação Acadêmica<span>
 
 ---
 
@@ -284,6 +285,24 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 
 <br>
 
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4D0BAQFZJvD-Y5Yn3A/company-logo_100_100/0/1678298915912?e=1689206400&v=beta&t=bMHuKFpLvIDM8cdMgL8Vq_rCPDLBPbocs_8oQ96yrhM"/>](https://www.ecommercebrasil.com.br)
+
+**E-commerce Brasil** \
+[**ECBR**](https://www.ecommercebrasil.com.br)
+
+<details><summary>Credenciais e Certificados:</summary>
+<br>
+
+- [Imersão em Gestão de Ecommerce](https://credencial.imasters.com.br/certificados/imprimir_do_evento/b93a105e78e400ada7acfe6facb4911c64c0da91)
+- [Big Solution Customer Experience](https://drive.google.com/file/d/1kR6MAvFcxYAgDqZhSFaAYABzxWvXQsf2/view?usp=sharing)
+- [The Future of E-Commerce - Edição Logística](https://drive.google.com/file/d/12TJjmBV21yqhe0w5drID2MkkcDekReWR/view?usp=sharing)
+- [Fórum E-Commerce Brasil 2018](https://drive.google.com/file/d/1XkNNTnjdLs4Q87UE5HxpQvY2QaySnzFx/view?usp=sharing)
+- [Fórum E-Commerce Brasil 2019](https://drive.google.com/file/d/1pQwnHjqAwBE8WPV8aVSf8dYN-YCg_2q8/view)
+- [Fórum E-Commerce Brasil 2020](https://drive.google.com/file/d/13dER-Tqd3uYZY2Xp1FytGmBHRn3Fisye/view?usp=sharing)
+</details>
+
+<br>
+
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4D0BAQF1i87nX_hHtQ/company-logo_100_100/0/1529087979779?e=1688601600&v=beta&t=f9QSXi4dAHzBu4Accl60td8xb5nK76tgxruzPf2PbRc"/>](https://www.internetinnovation.com.br)
 
 **Digital Business School** \
@@ -312,13 +331,58 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 - [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/U5jc3Yl3SxeKXoMxDSNWxQ)
 </details>
 
+<br>
+
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4D0BAQFPN3qN2GxsZQ/company-logo_100_100/0/1519891641082?e=1689206400&v=beta&t=5VAwqqlxnmUKZMslq7wy0Ezxjqwbvdm8w7GSZqOB9qc"/>](https://www.rockcontent.com.br)
+
+**Data Science Academy** \
+[**DSA**](https://www.rockcontent.com.br)
+
+<details><summary>Credenciais e Certificados:</summary>
+<br>
+
+- [Introdução à Ciência de Dados 3.0](https://drive.google.com/file/d/1u5r_QVBqor5MV-8dZcAcnJkxc-68oYqE/view?usp=sharing)
+- [Big Data Fundamentos 3.0](https://drive.google.com/file/d/1TnPpdJjtrkWWqPwkMn6vOvlFp9m42Gzt/view?usp=sharing)
+</details>
+
+<br>
+
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4E0BAQGbusoFOj-Rtw/company-logo_100_100/0/1632142630240?e=1689206400&v=beta&t=tXLBptoJgf-Sn7mh1ufbJ0CKQzFnSNhCT189scb2fpE"/>](https://www.rockcontent.com.br)
+
+**Rock University** \
+[**Rock Content**](https://www.rockcontent.com.br)
+
+<details><summary>Credenciais e Certificados:</summary>
+<br>
+
+- [Conversion Rate Optimization (CRO)](https://drive.google.com/file/d/1IlNjXgsnwP8cFR0qIOjtA7bC7abcWGp6/view?usp=sharing)
+- [Branding](https://drive.google.com/file/d/1ZEtnuetVjLW8ClUXfPSky2Rh3TACUt3w/view?usp=sharing)
+</details>
+
+<br>
+
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4D0BAQEA1ODG7FHa2g/company-logo_100_100/0/1606827888043?e=1689206400&v=beta&t=EGYLHphTOe7nsx0l8cjTHkqTWvipsAP-BUTE60HDpjE"/>](https://www.rdstation.com.br)
+
+**RD University** \
+[**RD Station**](https://www.rdstation.com.br)
+
+<details><summary>Credenciais e Certificados:</summary>
+<br>
+
+- [Aprofundamento em Email Marketing e Automação](https://drive.google.com/file/d/1dVF8AmjTFD0sQrn8gTF45L_bTY0_Y2Lx/view?usp=sharing)
+</details>
+
+<br>
+
 </details>
 
 <details closed>
 
-<br>
 
-<summary style="font-size: 16px; color: #79DAFA"><strong>Repositórios Destaques</strong></summary>
+<summary><strong>Repositórios Destaques</strong></summary>
 <br>
 <div align="center">
 
