@@ -1,4 +1,4 @@
-<h1 align="center"> <span style="color: #79dafa">Aylmer Bolzan</span></h1>
+<h1 align="center"> Aylmer Bolzan </h1>
 
 <div align="center">
 <b>Dev Front-End | Std Back-End | E-commerce | Marketing</b>
@@ -90,7 +90,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 <summary><strong> Tecnologias e Ferramentas</strong></summary>
 <br>
 
-#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Linguagens, Frameworks e Libraries</span>
+#### • Linguagens, Frameworks e Libraries
 
 ---
 
@@ -110,7 +110,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">IDEs, Databases e Recursos</span>
+#### • IDEs, Databases e Recursos
 
 ---
 
@@ -126,7 +126,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Analytics</span>
+#### • Analytics
 
 ---
 
@@ -139,7 +139,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Design</span>
+#### • Design
 
 ---
 
@@ -160,7 +160,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">E-commerce e Marketing</span>
+#### • E-commerce e Marketing
 
 ---
 
@@ -181,7 +181,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Email Marketing</span>
+#### • Email Marketing
 
 ---
 
@@ -191,7 +191,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Office</span>
+#### • Office
 
 ---
 
@@ -214,7 +214,7 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 
 <br>
 
-#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Qualificação Profissional</span>
+#### • Qualificação Profissional
 
 ---
 
@@ -243,9 +243,8 @@ Ferramentas & Tecnologias: `Tray Commerce`, `Google Ads`, `Facebook Ads`, `Taboo
 Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag Manager`, `RD Station`, `outras...`
 
 <br/>
-<br>
 
-#### <span style="color: #79dafa">•</span> <span style="color: #ff6e96">Qualificação Acadêmica<span>
+#### • Qualificação Acadêmica
 
 ---
 
