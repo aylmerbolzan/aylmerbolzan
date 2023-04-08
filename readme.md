@@ -38,15 +38,15 @@
     </a>
 </div>
 
-Olá! Me chamo [**Aylmer Bolzan**](https://www.linkedin.com/in/aylmerbolzan/).
+<span style="color: #79dafa">Olá! Me chamo [**Aylmer Bolzan**](https://www.linkedin.com/in/aylmerbolzan/).
 
-Desde muito jovem, sempre fui apaixonado por tecnologia e disposto a explorar novos desafios, alcançando assim voos longínquos
+</span><span style="color: #79dafa">Desde muito jovem, sempre fui apaixonado por tecnologia e disposto a explorar novos desafios, alcançando assim voos longínquos
 
-Ao longo dos anos, tive a oportunidade de trabalhar com profissionais incríveis e me aprofundar em diversas áreas da tecnologia, o que me permitiu adquirir habilidades valiosas a uma visão ampla sobre o assunto.
+</span><span style="color: #79dafa">Ao longo dos anos, tive a oportunidade de trabalhar com profissionais incríveis e me aprofundar em diversas áreas da tecnologia, o que me permitiu adquirir habilidades valiosas a uma visão ampla sobre o assunto.
 
-Tenho experiência com desenvolvimento front-end e estou aprofundando os conhecimentos em back-end. Já atuei nas áreas de business intelligence, e-commerce, marketing e design, tendo colaborado com grandes equipes.
+</span><span style="color: #79dafa">Tenho experiência com desenvolvimento front-end e estou aprofundando os conhecimentos em back-end. Já atuei nas áreas de business intelligence, e-commerce, marketing e design, tendo colaborado com grandes equipes.
 
-Atualmente trabalho na E&L Produções de Software como Programador JR, estou em formação no curso de Desenvolvimento de Sistemas Web, pelo IFES e Act!on e no curso de Front End da Oracle Next Education, pela Oracle e Alura.
+</span><span style="color: #79dafa">Atualmente trabalho na E&L Produções de Software como Programador JR, estou em formação no curso de Desenvolvimento de Sistemas Web, pelo IFES e Act!on e no curso de Front End da Oracle Next Education, pela Oracle e Alura.</span>
 
 </details>
 
