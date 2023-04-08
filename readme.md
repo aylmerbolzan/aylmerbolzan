@@ -55,24 +55,24 @@ Atualmente trabalho na E&L Produções de Software como Programador JR, estou em
 <summary><strong>Estatísticas</strong></summary>
 <div align="center">
 <br>
-<a href="https://www.linkedin.com/in/aylmerbolzan">
+<a href="https://www.linkedin.com/in/aylmerbolzan" style="text-decoration: none;">
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-stats-alpha.vercel.app/api?username=aylmerbolzan&cc=2A2E36&tc=78d6f6&ic=fe6e95&bc=fff" alt="Profile" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aylmerbolzan&theme=dracula&hide=text,git,xml&custom_title=Desenvolvido%20essa%20semana:" alt="Wakatime Stats" width="43%">
+  <img src="https://github-stats-alpha.vercel.app/api?username=aylmerbolzan&cc=2A2E36&tc=78d6f6&ic=fe6e95&bc=fff" alt="Profile" width="52%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aylmerbolzan&theme=dracula&hide=text,git,xml&custom_title=Desenvolvido%20essa%20semana:" alt="Wakatime Stats" width="46%">
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aylmerbolzan&theme=dracula&locale=pt_BR&fire=79DAFA&currStreakNum=fff&sideLabels=79DAFA" alt="Streaks" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=aylmerbolzan&show_icons=true&theme=dracula&custom_title=Status%20do%20GitHub:" alt="Github Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aylmerbolzan&theme=dracula&locale=pt_BR&fire=79DAFA&currStreakNum=fff&sideLabels=79DAFA" alt="Streaks" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=aylmerbolzan&show_icons=true&theme=dracula&custom_title=Status%20do%20GitHub:" alt="Github Stats" width="46%">
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aylmerbolzan&theme=dracula" alt="Top Language by Commit" width="45%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aylmerbolzan&theme=dracula" alt="Top Language by Repo" width="45%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aylmerbolzan&theme=dracula" alt="Top Language by Commit" width="40%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aylmerbolzan&theme=dracula" alt="Top Language by Repo" width="40%">
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aylmerbolzan&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20Mensais:&hide_border=true" alt="Top Contribuition Graph" width="90%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aylmerbolzan&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20Mensais:&hide_border=true" alt="Top Contribuition Graph" width="95%">
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
@@ -317,6 +317,9 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 </details>
 
 <details closed>
+
+<br>
+
 <summary><strong>Repositórios Destaques</strong></summary>
 <br>
 <div align="center">
