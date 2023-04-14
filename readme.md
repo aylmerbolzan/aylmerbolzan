@@ -292,7 +292,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 <details><summary>Credenciais e Certificados:</summary>
 <br>
 
-- [Imersão em Gestão de Ecommerce](https://credencial.imasters.com.br/certificados/imprimir_do_evento/b93a105e78e400ada7acfe6facb4911c64c0da91)
+- [Imersão em Gestão de E-commerce](https://credencial.imasters.com.br/certificados/imprimir_do_evento/b93a105e78e400ada7acfe6facb4911c64c0da91)
 - [Big Solution Customer Experience](https://drive.google.com/file/d/1kR6MAvFcxYAgDqZhSFaAYABzxWvXQsf2/view?usp=sharing)
 - [The Future of E-Commerce - Edição Logística](https://drive.google.com/file/d/12TJjmBV21yqhe0w5drID2MkkcDekReWR/view?usp=sharing)
 - [Fórum E-Commerce Brasil 2018](https://drive.google.com/file/d/1XkNNTnjdLs4Q87UE5HxpQvY2QaySnzFx/view?usp=sharing)
