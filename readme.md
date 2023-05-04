@@ -56,7 +56,7 @@
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
   <img src="https://github-stats-alpha.vercel.app/api?username=aylmerbolzan&cc=2A2E36&tc=78d6f6&ic=fe6e95&bc=fff" alt="Profile" width="52%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aylmerbolzan&theme=dracula&hide=text,git,other,xml&langs_count=6&custom_title=Desenvolvido%20essa%20semana:" alt="Wakatime Stats" width="46%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aylmerbolzan&theme=dracula&hide=text,git,other,xml&langs_count=6&range=last_7_days&custom_title=Desenvolvido%20essa%20semana:" alt="Wakatime Stats" width="46%">
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
