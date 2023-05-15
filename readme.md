@@ -19,6 +19,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-fbfbfb?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/aylmerbolzan)
 [![Twitter](https://img.shields.io/badge/Twitter-fbfbfb?logo=twitter&logoColor=1DA1F2)](https://twitter.com/intent/follow?screen_name=aylmerbolzan)
 [![Instagram](https://img.shields.io/badge/Instagram-fbfbfb?logo=instagram&logoColor=E4405F)](https://instagram.com/aylmerbolzan)
+[![Spotify](https://img.shields.io/badge/Spotify-fbfbfb?logo=spotify&logoColor=1ed760)](https://open.spotify.com/user/aylmer.bolzan)
 [![Telegram](https://img.shields.io/badge/Telegram-fbfbfb?logo=telegram&logoColor=2CA5E0)](https://t.me/aylmerbolzan)
 [![Gmail](https://img.shields.io/badge/Gmail-fbfbfb?logo=gmail&logoColor=D14836)](mailto:aylmer.bolzan@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-fbfbfb?logo=discord&logoColor=5865F2)](https://discord.com/users/930384476234743808)
