@@ -15,9 +15,8 @@
 
 <div align="center">
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-fbfbfb?logo=whatsapp&logoColor=25D366)](https://wa.me/5527998993129)
+[![zCal](https://img.shields.io/badge/Agenda-fbfbfb?logo=googlemeet&logoColor=196ddb)](https://zcal.co/aylmerbolzan)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-fbfbfb?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/aylmerbolzan)
-[![Twitter](https://img.shields.io/badge/Twitter-fbfbfb?logo=twitter&logoColor=1DA1F2)](https://twitter.com/intent/follow?screen_name=aylmerbolzan)
 [![Instagram](https://img.shields.io/badge/Instagram-fbfbfb?logo=instagram&logoColor=E4405F)](https://instagram.com/aylmerbolzan)
 [![Spotify](https://img.shields.io/badge/Spotify-fbfbfb?logo=spotify&logoColor=1ed760)](https://open.spotify.com/user/aylmer.bolzan)
 [![Telegram](https://img.shields.io/badge/Telegram-fbfbfb?logo=telegram&logoColor=2CA5E0)](https://t.me/aylmerbolzan)
@@ -71,7 +70,7 @@
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aylmerbolzan&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20Mensais:&hide_border=true" alt="Top Contribuition Graph" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aylmerbolzan&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20Mensais:&hide_border=true" alt="Top Contribuition Graph" width="95%">
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
