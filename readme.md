@@ -1,13 +1,13 @@
 <h1 align="center"> Aylmer Bolzan </h1>
 
 <div align="center">
-<b>Dev Front-End | Std Back-End | E-commerce | Marketing</b>
+<b>Dev Full Stack | E-commerce | Marketing</b>
 <br>
 <br>
 
 <blockquote>
     <p><i>
-        Sou um explorador incansável no universo da tecnologia, sempre buscando novos conhecimentos e desafios. Com habilidades afiadas e uma visão ampla, transformo ideias em realidade e soluciono problemas de forma criativa e eficiente. 🚀
+        Sou um explorador incansável no vasto universo da tecnologia, constantemente em busca de novos conhecimentos e desafios. Com um conjunto de habilidades afiadas e uma visão ampla, tenho a capacidade de transformar ideias em realidade e solucionar problemas de maneira criativa e eficiente. Estou sempre empenhado em impulsionar projetos para a frente, com um espírito inovador e determinação. 🚀
 </blockquote>
 </div>
 
@@ -15,13 +15,13 @@
 
 <div align="center">
 
-[![zCal](https://img.shields.io/badge/Agenda-fbfbfb?logo=googlemeet&logoColor=196ddb)](https://zcal.co/aylmerbolzan)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-fbfbfb?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/aylmerbolzan)
-[![Instagram](https://img.shields.io/badge/Instagram-fbfbfb?logo=instagram&logoColor=E4405F)](https://instagram.com/aylmerbolzan)
-[![Spotify](https://img.shields.io/badge/Spotify-fbfbfb?logo=spotify&logoColor=1ed760)](https://open.spotify.com/user/aylmer.bolzan)
-[![Telegram](https://img.shields.io/badge/Telegram-fbfbfb?logo=telegram&logoColor=2CA5E0)](https://t.me/aylmerbolzan)
-[![Gmail](https://img.shields.io/badge/Gmail-fbfbfb?logo=gmail&logoColor=D14836)](mailto:aylmer.bolzan@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-fbfbfb?logo=discord&logoColor=5865F2)](https://discord.com/users/930384476234743808)
+[![zCal](https://img.shields.io/badge/Agenda-lavender?logo=googlemeet&logoColor=196ddb)](https://zcal.co/aylmerbolzan)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/aylmerbolzan)
+[![Instagram](https://img.shields.io/badge/Instagram-lavender?logo=instagram)](https://instagram.com/aylmerbolzan)
+[![Spotify](https://img.shields.io/badge/Spotify-lavender?logo=spotify)](https://open.spotify.com/user/aylmer.bolzan)
+[![Telegram](https://img.shields.io/badge/Telegram-lavender?logo=telegram)](https://t.me/aylmerbolzan)
+[![Gmail](https://img.shields.io/badge/Gmail-lavender?logo=gmail)](mailto:aylmer.bolzan@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-lavender?logo=discord)](https://discord.com/users/930384476234743808)
 
 </div>
 
@@ -38,15 +38,20 @@
     </a>
 </div>
 
-<span style="color: #79dafa">Olá! Me chamo [**Aylmer Bolzan**](https://www.linkedin.com/in/aylmerbolzan/).
+<span style="color: #79dafa">Olá! Me chamo [**Aylmer Bolzan**](https://bento.me/aylmer).
 
-</span><span style="color: #79dafa">Desde muito jovem, sempre fui apaixonado por tecnologia e disposto a explorar novos desafios, alcançando assim voos longínquos
+</span><span style="color: #79dafa">Sou apaixonado por tecnologia desde muito jovem, sempre buscando conhecimento, novos desafios e voos longínquos.
 
-</span><span style="color: #79dafa">Ao longo dos anos, tive a oportunidade de trabalhar com profissionais incríveis e me aprofundar em diversas áreas da tecnologia, o que me permitiu adquirir habilidades valiosas a uma visão ampla sobre o assunto.
+</span><span style="color: #79dafa">Ao longo dos anos, tive a oportunidade incrível de trabalhar com profissionais talentosos e explorar diversas áreas desse vasto universo. Essa experiência me proporcionou habilidades valiosas e uma visão ampla sobre o assunto.
 
-</span><span style="color: #79dafa">Tenho experiência com desenvolvimento front-end e estou aprofundando os conhecimentos em back-end. Já atuei nas áreas de business intelligence, e-commerce, marketing e design, tendo colaborado com grandes equipes.
+</span><span style="color: #79dafa">Tenho expertise em desenvolvimento front-end e estou aprofundando meus conhecimentos em back-end. Além disso, já atuei em áreas correlacionadas como business intelligence, e-commerce, marketing e design, colaborando com equipes de alto nível.
 
-</span><span style="color: #79dafa">Atualmente trabalho na E&L Produções de Software como Programador JR, estou em formação no curso de Desenvolvimento de Sistemas Web, pelo IFES e Act!on e no curso de Front End da Oracle Next Education, pela Oracle e Alura.</span>
+</span><span style="color: #79dafa">Atuo como Desenvolvedor na E&L Produções de Software, idealizei o [SALVIA.eco.br](https://www.salvia.eco.br), e-commerce de biocosméticos, além de colaborar em projetos particulares e também em projetos open-source, adquirindo conhecimento e contribuindo com a comunidade, sempre em busca de aprendizado e crescimento na área!
+
+</span><span style="color: #79dafa">Se você está procurando por alguém apaixonado por tecnologia, com experiência diversificada e sede de conhecimento, estou aqui pronto para encarar os desafios e fazer a diferença. Vamos juntos construir algo incrível!
+
+</span>
+
 
 </details>
 
@@ -98,14 +103,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-2449d8?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6d11ea?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-35b3eb?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-2a2c2e?style=for-the-badge&logo=react&logoColor=61dafb)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=for-the-badge&logo=javascript&logoColor=323330)
-![JSON](https://img.shields.io/badge/json-303030?style=for-the-badge&logo=json&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Java](https://custom-icon-badges.demolab.com/badge/-Java-a11015?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-2a2c2e?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.js-679e58?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-c13534?style=for-the-badge&logo=npm&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5527d8?style=for-the-badge&logo=axios&logoColor=white)
+![JSON](https://img.shields.io/badge/json-303030?style=for-the-badge&logo=json&logoColor=white)
+![Java](https://custom-icon-badges.demolab.com/badge/-Java-a11015?style=for-the-badge&logo=java&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-e44c30?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
@@ -116,13 +121,14 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0073c2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-192931?style=for-the-badge&logo=prettier)
-![Replit](https://img.shields.io/badge/replit-f26207?style=for-the-badge&logo=replit&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4930bd?style=for-the-badge&logo=eslint&logoColor=7c7cea)
+![Repl.it](https://img.shields.io/badge/Repl.it-f26207?style=for-the-badge&logo=replit&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2d1e53?style=for-the-badge&logo=eclipse&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-c3c3c3?style=for-the-badge&logo=github&logoColor=black)
+![Notepad++](https://img.shields.io/badge/Notepad++-b0d579.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-8b7463?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30628a?style=for-the-badge&logo=postgresql&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-b0d579.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-c3c3c3?style=for-the-badge&logo=github&logoColor=black)
 
 <br>
 
@@ -145,18 +151,14 @@
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001c33?style=for-the-badge&logo=Adobe%20Photoshop)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-632801?style=for-the-badge&logo=adobe%20illustrator)
-![Figma](https://img.shields.io/badge/Figma-FFF?style=for-the-badge&logo=figma)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-001c33?style=for-the-badge&logo=Adobe%20Lightroom)
 ![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-9a9aff?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=37306f)
 ![Premiere](https://img.shields.io/badge/Adobe%20Premiere-280031?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FFF?style=for-the-badge&logo=figma)
 ![Sketch Up](https://img.shields.io/badge/Sketch%20up-0951a0?style=for-the-badge&logo=sketchup&logoColor=white)
-![IconFinder](https://custom-icon-badges.demolab.com/badge/IconFinder-1A1B1F?style=for-the-badge&logo=iconfinder&logoColor=white)
-![Pexels](https://img.shields.io/badge/Pexels-4ea69a?style=for-the-badge&logo=pexels&logoColor=white)
-![Unsplash](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-8b0038?style=for-the-badge&logo=elementor&logoColor=white)
-![Google Fonts](https://img.shields.io/badge/Google%20Fonts-1a73e8?style=for-the-badge&logo=googlefonts&logoColor=white)
-![Imgur](https://img.shields.io/badge/Imgur-1baf69?style=for-the-badge&logo=imgur&logoColor=white)
+
 
 <br>
 
@@ -165,19 +167,18 @@
 ---
 
 ![Magento](https://img.shields.io/badge/Magento-e65e20?style=for-the-badge&logo=magento&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-1f6f93?style=for-the-badge&logo=wordpress&logoColor=white)
+![Yoast](https://img.shields.io/badge/Yoast-9d2666?style=for-the-badge&logo=yoast)
+![Wix](https://img.shields.io/badge/Wix-1c1c1a?style=for-the-badge&logo=wix&logoColor=ecbc35)
+![Joomla](https://img.shields.io/badge/Joomla-184170?style=for-the-badge&logo=joomla&logoColor=74b740)
+![Blogger](https://img.shields.io/badge/Blogger-f25320?style=for-the-badge&logo=blogger&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-83abeb?style=for-the-badge&logo=googletagmanager&logoColor=white)
 ![Google Page Speed Insights](https://img.shields.io/badge/Google%20PageSpeed%20Insights-d7d7d7?style=for-the-badge&logo=PageSpeedInsights)
 ![Facebook Ads](https://custom-icon-badges.demolab.com/badge/-Facebook%20Ads-1777f4?style=for-the-badge&logo=facebook&logoColor=white)
 ![Google Ads](https://custom-icon-badges.demolab.com/badge/-Google%20Ads-5a5e63?style=for-the-badge&logo=googleads)
 ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-dd4b39?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![Google My Business](https://img.shields.io/badge/Google%20My%20Business-4683e8?style=for-the-badge&logo=googlemybusiness&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-1f6f93?style=for-the-badge&logo=wordpress&logoColor=white)
-![Yoast](https://img.shields.io/badge/Yoast-9d2666?style=for-the-badge&logo=yoast)
-![Wix](https://img.shields.io/badge/Wix-1c1c1a?style=for-the-badge&logo=wix&logoColor=ecbc35)
-![Joomla](https://img.shields.io/badge/Joomla-184170?style=for-the-badge&logo=joomla&logoColor=74b740)
-![Blogger](https://img.shields.io/badge/Blogger-f25320?style=for-the-badge&logo=blogger&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![RSS](https://img.shields.io/badge/RSS-ea7d20?style=for-the-badge&logo=rss&logoColor=white)
+
 
 <br>
 
@@ -195,17 +196,14 @@
 
 ---
 
+![Trello](https://img.shields.io/badge/Trello-0073b5?style=for-the-badge&logo=trello&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-1f9c5f?style=for-the-badge&logo=google-sheets&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/Chat%20GPT-6ea194?style=for-the-badge&logo=openai&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![TypeForm](https://custom-icon-badges.demolab.com/badge/TypeForm-262627?style=for-the-badge&logo=typeform&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0073b5?style=for-the-badge&logo=trello&logoColor=white)
-![Opera GX](https://img.shields.io/badge/Opera%20GX-e11b22?style=for-the-badge&logo=opera&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/Chat%20GPT-6ea194?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Keep](https://img.shields.io/badge/Google%20Keep-FFBB00?style=for-the-badge&logo=googlekeep&logoColor=black)
 ![Prezi](https://img.shields.io/badge/Prezi-2f7af2?style=for-the-badge&logo=prezi&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-00562e?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-c54122?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![World](https://img.shields.io/badge/Microsoft_Word-285190?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
 
 </details>
 
