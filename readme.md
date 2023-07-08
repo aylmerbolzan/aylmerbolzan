@@ -1,7 +1,7 @@
 <h1 align="center"> Aylmer Bolzan </h1>
 
 <div align="center">
-<b>Dev Full Stack | E-commerce | Marketing</b>
+<b>Full-Stack Developer | E-commerce | Marketing</b>
 <br>
 <br>
 
@@ -218,7 +218,7 @@
 
 <br>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4E0BAQGI_YnHhL-kYQ/company-logo_200_200/0/1624298243414?e=1688601600&v=beta&t=BawDw-AtNiwftlSio0Q7rtFnuyN6OCENmkmp_NYaKhk"/>](https://www.el.com.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/el.jpg"/>](https://www.el.com.br)
 
 **Programador Júnior** \
 [**EL Produções de Software**](https://www.el.com.br) • Mar. 2023 - Atualmente \
@@ -226,7 +226,7 @@ Ferramentas & Tecnologias: `GWT`, `Java`, `React`, `PostgreSQL`, `Eclipse`, `DBe
 
 <br/>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4E0BAQEYt7YwS1nv2g/company-logo_100_100/0/1559007355250?e=1688601600&v=beta&t=911lSXnynk5GDy3sjlCpfPFKa7pJN4030fkFHX_yBcA"/>](https://www.salvia.eco.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/salvia.jpg"/>](https://www.salvia.eco.br)
 
 **Co-Founder & CMO** \
 [**SALVIA - Cosméticos Naturais**](https://www.salvia.eco.br) • Ago. 2018 - Fev. 2023 \
@@ -234,7 +234,7 @@ Ferramentas & Tecnologias: `Tray Commerce`, `Google Ads`, `Facebook Ads`, `Taboo
 
 <br/>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4D0BAQHQxXnfVcHljw/company-logo_100_100/0/1519915450900?e=1688601600&v=beta&t=fFkbJPDLHuQiBdY5t7Ch0ZD4xmKuWYntH1yKZW1AbsI"/>](https://www.cpaps.com.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/cpaps.jpg"/>](https://www.cpaps.com.br)
 
 **Coordenador de E-commerce** \
 [**CPAPS - Terapia do Sono**](https://www.cpaps.com.br) • Dez. 2017 - Mai. 2021 \
@@ -248,7 +248,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 
 <br>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/0/1665755678671?e=1688601600&v=beta&t=pXPsK9NXBKjmpWEeE8jR6Ai9eqe78pBQgRbihFcRSJI"/>](https://www.oracle.com/br/education/oracle-next-education/)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/oracle.jpg"/>](https://www.oracle.com/br/education/oracle-next-education/)
 
 **Formação em Programação | T4** \
 [**Oracle Next Education**](https://www.oracle.com/br/education/oracle-next-education/)
@@ -268,7 +268,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 
 <br>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_100_100/0/1544613582138?e=1688601600&v=beta&t=nLbgfjSbkJE86SUdDnmdpxc3GQfXR46BCzbAbCSdw3o"/>](https://reprograme-se.org.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/ifes.jpg"/>](https://reprograme-se.org.br)
 
 **Desenvolvimento de Sistemas Web** \
 [**IFES - Instituto Federal do Espírito Santo**](https://reprograme-se.org.br)
@@ -282,7 +282,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 
 <br>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4D0BAQFZJvD-Y5Yn3A/company-logo_100_100/0/1678298915912?e=1689206400&v=beta&t=bMHuKFpLvIDM8cdMgL8Vq_rCPDLBPbocs_8oQ96yrhM"/>](https://www.ecommercebrasil.com.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/ecbr.jpg"/>](https://www.ecommercebrasil.com.br)
 
 **E-commerce Brasil** \
 [**ECBR**](https://www.ecommercebrasil.com.br)
@@ -300,7 +300,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 
 <br>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4D0BAQF1i87nX_hHtQ/company-logo_100_100/0/1529087979779?e=1688601600&v=beta&t=f9QSXi4dAHzBu4Accl60td8xb5nK76tgxruzPf2PbRc"/>](https://www.internetinnovation.com.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/ii.jpg"/>](https://www.internetinnovation.com.br)
 
 **Digital Business School** \
 [**Internet Innovation**](https://www.internetinnovation.com.br)
@@ -315,7 +315,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 
 <br>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C510BAQG5CX7RTbHDnw/company-logo_100_100/0/1570094150727?e=1688601600&v=beta&t=NvZm3mg73xmjmlAnpN_Sj15xE3grwPfm2zOEIPjL3Cg"/>](https://analytics.google.com/analytics/academy/)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/gab.jpg"/>](https://analytics.google.com/analytics/academy/)
 
 **Google Analytics for Business** \
 [**Google Analytics Academy**](https://analytics.google.com/analytics/academy/)
@@ -331,7 +331,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 <br>
 
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4D0BAQFPN3qN2GxsZQ/company-logo_100_100/0/1519891641082?e=1689206400&v=beta&t=5VAwqqlxnmUKZMslq7wy0Ezxjqwbvdm8w7GSZqOB9qc"/>](https://www.rockcontent.com.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/dsa.jpg"/>](https://www.rockcontent.com.br)
 
 **Data Science Academy** \
 [**DSA**](https://www.rockcontent.com.br)
@@ -346,7 +346,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 <br>
 
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4E0BAQGbusoFOj-Rtw/company-logo_100_100/0/1632142630240?e=1689206400&v=beta&t=tXLBptoJgf-Sn7mh1ufbJ0CKQzFnSNhCT189scb2fpE"/>](https://www.rockcontent.com.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/rockcontent.jpg"/>](https://www.rockcontent.com.br)
 
 **Rock University** \
 [**Rock Content**](https://www.rockcontent.com.br)
@@ -361,7 +361,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 <br>
 
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://media.licdn.com/dms/image/C4D0BAQEA1ODG7FHa2g/company-logo_100_100/0/1606827888043?e=1689206400&v=beta&t=EGYLHphTOe7nsx0l8cjTHkqTWvipsAP-BUTE60HDpjE"/>](https://www.rdstation.com.br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/rd.jpg"/>](https://www.rdstation.com.br)
 
 **RD University** \
 [**RD Station**](https://www.rdstation.com.br)
