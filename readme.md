@@ -17,11 +17,11 @@
 
 [![zCal](https://img.shields.io/badge/Agenda-lavender?logo=googlemeet&logoColor=196ddb)](https://zcal.co/aylmerbolzan)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/aylmerbolzan)
-[![Instagram](https://img.shields.io/badge/Instagram-lavender?logo=instagram)](https://instagram.com/aylmerbolzan)
 [![Spotify](https://img.shields.io/badge/Spotify-lavender?logo=spotify)](https://open.spotify.com/user/aylmer.bolzan)
 [![Telegram](https://img.shields.io/badge/Telegram-lavender?logo=telegram)](https://t.me/aylmerbolzan)
 [![Gmail](https://img.shields.io/badge/Gmail-lavender?logo=gmail)](mailto:aylmer.bolzan@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-lavender?logo=discord)](https://discord.com/users/930384476234743808)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-lavender?logo=instagram)](https://instagram.com/aylmerbolzan) -->
 
 </div>
 
@@ -42,11 +42,11 @@
 
 </span><span style="color: #79dafa">Sou apaixonado por tecnologia desde muito jovem, sempre buscando conhecimento, novos desafios e voos longínquos.
 
-</span><span style="color: #79dafa">Ao longo dos anos, tive a oportunidade incrível de trabalhar com profissionais talentosos e explorar diversas áreas desse vasto universo. Essa experiência me proporcionou habilidades valiosas e uma visão ampla sobre o assunto.
+</span><span style="color: #79dafa">Ao longo dos anos, tive a oportunidade incrível de trabalhar com profissionais talentosos e explorar diversas áreas do universo da tecnologia. Essa experiência me proporcionou habilidades valiosas e uma visão ampla sobre vários pontos que se conectam entre si.
 
-</span><span style="color: #79dafa">Tenho expertise em desenvolvimento front-end e estou aprofundando meus conhecimentos em back-end. Além disso, já atuei em áreas correlacionadas como business intelligence, e-commerce, marketing e design, colaborando com equipes de alto nível.
+</span><span style="color: #79dafa">Sou desenvolvedor full-stack, com expertise em desenvolvimento front-end e estou aprofundando cada vez mais meus conhecimentos em back-end. Além disso, já atuei em áreas correlacionadas como business intelligence, e-commerce, marketing e design, colaborando com equipes de alto nível.
 
-</span><span style="color: #79dafa">Atuo como Desenvolvedor na E&L Produções de Software, idealizei o [SALVIA.eco.br](https://www.salvia.eco.br), e-commerce de biocosméticos, além de colaborar em projetos particulares e também em projetos open-source, adquirindo conhecimento e contribuindo com a comunidade, sempre em busca de aprendizado e crescimento na área!
+</span><span style="color: #79dafa">Atualmente sou Desenvolvedor na E&L Produções de Software, idealizei o [SALVIA.eco.br](https://www.salvia.eco.br), e-commerce de biocosméticos, além de colaborar em projetos particulares e também em projetos open-source, adquirindo conhecimento e contribuindo com a comunidade, sempre em busca de aprendizado e crescimento na área.
 
 </span><span style="color: #79dafa">Se você está procurando por alguém apaixonado por tecnologia, com experiência diversificada e sede de conhecimento, estou aqui pronto para encarar os desafios e fazer a diferença. Vamos juntos construir algo incrível!
 
@@ -99,17 +99,19 @@
 
 ---
 
+
 ![HTML5](https://img.shields.io/badge/HTML5-d84924?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2449d8?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6d11ea?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-35b3eb?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=for-the-badge&logo=javascript&logoColor=323330)
 ![React](https://img.shields.io/badge/React-2a2c2e?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.js-679e58?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-c13534?style=for-the-badge&logo=npm&logoColor=white)
+![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.js-679e58?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://custom-icon-badges.demolab.com/badge/-Java-a11015?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6aad3d?style=for-the-badge&logo=springboot&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5527d8?style=for-the-badge&logo=axios&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-303030?style=for-the-badge&logo=json&logoColor=white)
-![Java](https://custom-icon-badges.demolab.com/badge/-Java-a11015?style=for-the-badge&logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-e44c30?style=for-the-badge&logo=git&logoColor=white)
 
@@ -123,12 +125,14 @@
 ![Prettier](https://img.shields.io/badge/Prettier-192931?style=for-the-badge&logo=prettier)
 ![ESLint](https://img.shields.io/badge/ESLint-4930bd?style=for-the-badge&logo=eslint&logoColor=7c7cea)
 ![Repl.it](https://img.shields.io/badge/Repl.it-f26207?style=for-the-badge&logo=replit&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-1a70a5?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2d1e53?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-b0d579.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-8b7463?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30628a?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-c3c3c3?style=for-the-badge&logo=github&logoColor=black)
+
 
 <br>
 
@@ -154,10 +158,11 @@
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-001c33?style=for-the-badge&logo=Adobe%20Lightroom)
 ![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-9a9aff?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=37306f)
 ![Premiere](https://img.shields.io/badge/Adobe%20Premiere-280031?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FFF?style=for-the-badge&logo=figma)
+![Photopea](https://img.shields.io/badge/Photopea-1fa79a?style=for-the-badge&logo=photopea&logoColor=white)
 ![Sketch Up](https://img.shields.io/badge/Sketch%20up-0951a0?style=for-the-badge&logo=sketchup&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-8b0038?style=for-the-badge&logo=elementor&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
 <br>
@@ -220,7 +225,7 @@
 
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/el.jpg"/>](https://www.el.com.br)
 
-**Programador Júnior** \
+**Desenvolvedor** \
 [**EL Produções de Software**](https://www.el.com.br) • Mar. 2023 - Atualmente \
 Ferramentas & Tecnologias: `GWT`, `Java`, `React`, `PostgreSQL`, `Eclipse`, `DBeaver`, `Trello`, `outras...`
 
@@ -388,8 +393,8 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
   <a href="https://github.com/aylmerbolzan/As-Aventuras-de-Maite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=As-Aventuras-de-Maite&theme=dracula" alt="As Aventuras de Maitê" ></a>
 </div>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <a href="https://github.com/aylmerbolzan/todolist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=todolist&theme=dracula" alt="Calculadora de IMC"></a>
   <a href="https://github.com/aylmerbolzan/devNotes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=devNotes&theme=dracula" alt="devNotes"></a>
-  <a href="https://github.com/aylmerbolzan/Calculadora-de-IMC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=Calculadora-de-IMC&theme=dracula" alt="Calculadora de IMC"></a>
 </div>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
   <a href="https://github.com/aylmerbolzan/NLW.Rocketseat.10-Copa-2022"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aylmerbolzan&repo=NLW.Rocketseat.10-Copa-2022&theme=dracula" alt="NLW 10"></a>
