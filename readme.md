@@ -402,3 +402,18 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 </div>
 </div>
 </details>
+
+
+<details closed>
+
+
+<summary><strong>Colaboração em Projetos</strong></summary>
+<br>
+<div align="center">
+
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <a href="https://github.com/menthorlabs/menthor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=menthorlabs&repo=menthor&theme=dracula" alt="Menthor.io" ></a>
+  <a href="https://github.com/ocodista/trampar-de-casa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ocodista&repo=trampar-de-casa&theme=dracula" alt="TrampardeCasa.com.br" ></a>
+</div>
+</div>
+</details>
