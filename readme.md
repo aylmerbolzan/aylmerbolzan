@@ -281,8 +281,8 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 <details><summary>Credenciais e Certificados:</summary>
 <br>
 
-- FIC 1 - Programação básica de aplicativos web - Front-end
-- FIC 2 - Programação com JavaScript e o Framework Node.JS - Back-end
+- [FIC 1 - Programação básica de aplicativos web - Front-end](https://drive.google.com/file/d/19jAoREoarh6C0nxoBRRTBx2ucKWrccn3/)
+- [FIC 2 - Programação com JavaScript e o Framework Node.JS - Back-end](https://drive.google.com/file/d/14mGSkQcnAobiZEnX7PzyeDA7CBD4Gc6q/)
 </details>
 
 <br>
