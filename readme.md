@@ -92,7 +92,7 @@
 </details>
 
 <details closed>
-<summary><strong> Tecnologias e Ferramentas</strong></summary>
+<summary><strong>Tecnologias e Ferramentas</strong></summary>
 <br>
 
 #### • Linguagens, Frameworks e Libraries
@@ -108,6 +108,7 @@
 ![React](https://img.shields.io/badge/React-2a2c2e?style=for-the-badge&logo=react&logoColor=61dafb)
 ![NPM](https://img.shields.io/badge/NPM-c13534?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.js-679e58?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-346fa0?style=for-the-badge&logo=python&logoColor=f7ca3e)
 ![Java](https://custom-icon-badges.demolab.com/badge/-Java-a11015?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6aad3d?style=for-the-badge&logo=springboot&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5527d8?style=for-the-badge&logo=axios&logoColor=white)
