@@ -28,7 +28,7 @@
 <p>
 
 <details closed>
-<summary><strong>Sobre mim</strong></summary>
+<summary><strong><span style="color: #316dca">Sobre mim</span></strong></summary>
 
 ---
 
@@ -56,7 +56,7 @@
 </details>
 
 <details closed>
-<summary><strong>Estatísticas</strong></summary>
+<summary><strong><span style="color: #316dca">Estatísticas</span></strong></summary>
 <div align="center">
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
@@ -92,7 +92,7 @@
 </details>
 
 <details closed>
-<summary><strong>Tecnologias e Ferramentas</strong></summary>
+<summary><strong><span style="color: #316dca">Tecnologias e Ferramentas</span></strong></summary>
 <br>
 
 #### • Linguagens, Frameworks e Libraries
@@ -214,7 +214,7 @@
 </details>
 
 <details closed>
-<summary><strong>Competências e Experiência</strong></summary>
+<summary><strong><span style="color: #316dca">Competências e Experiência</span></strong></summary>
 
 <br>
 
@@ -385,7 +385,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 <details closed>
 
 
-<summary><strong>Repositórios Destaques</strong></summary>
+<summary><strong><span style="color: #316dca">Repositórios Destaques</span></strong></summary>
 <br>
 <div align="center">
 
@@ -408,7 +408,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 <details closed>
 
 
-<summary><strong>Colaboração em Projetos</strong></summary>
+<summary><strong><span style="color: #316dca">Colaboração em Projetos</span></strong></summary>
 <br>
 <div align="center">
 
