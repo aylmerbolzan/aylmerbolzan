@@ -28,7 +28,7 @@
 <p>
 
 <details closed>
-<summary><strong><span style="color: #316dca">Sobre mim</span></strong></summary>
+<summary><strong>Sobre mim</strong></summary>
 
 ---
 
@@ -38,25 +38,23 @@
     </a>
 </div>
 
-<span style="color: #79dafa">Olá! Me chamo [**Aylmer Bolzan**](https://bento.me/aylmer).
+Olá! Me chamo [**Aylmer Bolzan**](https://bento.me/aylmer).
 
-</span><span style="color: #79dafa">Sou apaixonado por tecnologia desde muito jovem, sempre buscando conhecimento, novos desafios e voos longínquos.
+Sou apaixonado por tecnologia desde muito jovem, sempre buscando conhecimento, novos desafios e voos longínquos.
 
-</span><span style="color: #79dafa">Ao longo dos anos, tive a oportunidade incrível de trabalhar com profissionais talentosos e explorar diversas áreas do universo da tecnologia. Essa experiência me proporcionou habilidades valiosas e uma visão ampla sobre vários pontos que se conectam entre si.
+Ao longo dos anos, tive a oportunidade incrível de trabalhar com profissionais talentosos e explorar diversas áreas do universo da tecnologia. Essa experiência me proporcionou habilidades valiosas e uma visão ampla sobre vários pontos que se conectam entre si.
 
-</span><span style="color: #79dafa">Sou desenvolvedor full-stack, com expertise em desenvolvimento front-end e estou aprofundando cada vez mais meus conhecimentos em back-end. Além disso, já atuei em áreas correlacionadas como business intelligence, e-commerce, marketing e design, colaborando com equipes de alto nível.
+Sou desenvolvedor full-stack, com expertise em desenvolvimento front-end e estou aprofundando cada vez mais meus conhecimentos em back-end. Além disso, já atuei em áreas correlacionadas como business intelligence, e-commerce, marketing e design, colaborando com equipes de alto nível.
 
-</span><span style="color: #79dafa">Atualmente sou Desenvolvedor na E&L Produções de Software, idealizei o [SALVIA.eco.br](https://www.salvia.eco.br), e-commerce de biocosméticos, além de colaborar em projetos particulares e também em projetos open-source, adquirindo conhecimento e contribuindo com a comunidade, sempre em busca de aprendizado e crescimento na área.
+Atualmente sou Desenvolvedor na E&L Produções de Software, idealizei o [SALVIA.eco.br](https://www.salvia.eco.br), e-commerce de biocosméticos, além de colaborar em projetos particulares e também em projetos open-source, adquirindo conhecimento e contribuindo com a comunidade, sempre em busca de aprendizado e crescimento na área.
 
-</span><span style="color: #79dafa">Se você está procurando por alguém apaixonado por tecnologia, com experiência diversificada e sede de conhecimento, estou aqui pronto para encarar os desafios e fazer a diferença. Vamos juntos construir algo incrível!
-
-</span>
+Se você está procurando por alguém apaixonado por tecnologia, com experiência diversificada e sede de conhecimento, estou aqui pronto para encarar os desafios e fazer a diferença. Vamos juntos construir algo incrível!
 
 
 </details>
 
 <details closed>
-<summary><strong><span style="color: #316dca">Estatísticas</span></strong></summary>
+<summary><strong>Estatísticas</strong></summary>
 <div align="center">
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
@@ -92,7 +90,7 @@
 </details>
 
 <details closed>
-<summary><strong><span style="color: #316dca">Tecnologias e Ferramentas</span></strong></summary>
+<summary><strong>Tecnologias e Ferramentas</strong></summary>
 <br>
 
 #### • Linguagens, Frameworks e Libraries
@@ -214,7 +212,7 @@
 </details>
 
 <details closed>
-<summary><strong><span style="color: #316dca">Competências e Experiência</span></strong></summary>
+<summary><strong>Competências e Experiência</strong></summary>
 
 <br>
 
@@ -385,7 +383,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 <details closed>
 
 
-<summary><strong><span style="color: #316dca">Repositórios Destaques</span></strong></summary>
+<summary><strong>Repositórios Destaques</strong></summary>
 <br>
 <div align="center">
 
@@ -408,7 +406,7 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 <details closed>
 
 
-<summary><strong><span style="color: #316dca">Colaboração em Projetos</span></strong></summary>
+<summary><strong>Colaboração em Projetos</strong></summary>
 <br>
 <div align="center">
 
