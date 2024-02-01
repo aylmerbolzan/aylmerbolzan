@@ -1,7 +1,7 @@
 <h1 align="center"> Aylmer Bolzan </h1>
 
 <div align="center">
-<b>Full-Stack Developer | E-commerce | Marketing</b>
+<b>Java | JavaScript | Node | React | Python | PostgreSQL</b>
 <br>
 <br>
 
