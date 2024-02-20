@@ -109,6 +109,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 ![Python](https://img.shields.io/badge/Python-346fa0?style=for-the-badge&logo=python&logoColor=f7ca3e)
 ![Java](https://custom-icon-badges.demolab.com/badge/-Java-a11015?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6aad3d?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=#005a98)
 ![Axios](https://img.shields.io/badge/Axios-5527d8?style=for-the-badge&logo=axios&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-303030?style=for-the-badge&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
