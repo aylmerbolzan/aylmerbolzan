@@ -1,7 +1,13 @@
 <h1 align="center"> Aylmer Bolzan </h1>
 
 <div align="center">
-<b>Java | JavaScript | Node | React | Python | PostgreSQL</b>
+<b><img width="12"
+  src="https://skillicons.dev/icons?i=java"> Java | <img width="12"
+  src="https://skillicons.dev/icons?i=javascript"> JavaScript | <img width="12"
+  src="https://skillicons.dev/icons?i=nodejs"> Node | <img width="12"
+  src="https://skillicons.dev/icons?i=react"> React | <img width="12"
+  src="https://skillicons.dev/icons?i=python"> Python | <img width="12"
+  src="https://skillicons.dev/icons?i=postgresql"> PostgreSQL</b>
 <br>
 <br>
 
