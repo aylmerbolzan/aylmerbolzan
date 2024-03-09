@@ -134,6 +134,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-1a70a5?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![ZSH](https://img.shields.io/badge/zShell-ffffff?style=for-the-badge&logo=zsh&logoColor=#e95116)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2d1e53?style=for-the-badge&logo=eclipse&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-fff?style=for-the-badge&logo=powershell&logoColor=#256db8)
 ![Notepad++](https://img.shields.io/badge/Notepad++-b0d579.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-8b7463?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30628a?style=for-the-badge&logo=postgresql&logoColor=white)
