@@ -18,7 +18,7 @@
 </div>
 
 ---
-
+oracle
 <div align="center">
 
 [![zCal](https://img.shields.io/badge/Agenda-lavender?logo=googlemeet&logoColor=196ddb)](https://zcal.co/aylmerbolzan)
@@ -258,6 +258,19 @@ Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag 
 #### • Qualificação Acadêmica
 
 ---
+
+<br>
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/loiane.jpg"/>](https://loiane.training/)
+
+**Loiane Training** \
+[**Loiane Groner**](https://loiane.training/)
+
+<details><summary>Credenciais e Certificados:</summary>
+<br>
+
+- [Curso de Java e Orientação a Objetos](https://drive.google.com/file/d/1_Kd2pGUdSe_oxvcJZm3_4_Yu685ZCnRI)
+</details>
 
 <br>
 
