@@ -18,7 +18,7 @@
 </div>
 
 ---
-oracle
+
 <div align="center">
 
 [![zCal](https://img.shields.io/badge/Agenda-lavender?logo=googlemeet&logoColor=196ddb)](https://zcal.co/aylmerbolzan)
@@ -88,7 +88,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=aylmerbolzan&theme=dracula&margin-w=15&margin-h=15" alt="Trophy" width="90%">
+  <img src="https://github-profile-trophy.vercel.app/?username=aylmerbolzan&theme=dracula&margin-w=5&margin-h=5&column=-1" alt="Trophy" width="90%">
 </div>
 </a>
 <br>
