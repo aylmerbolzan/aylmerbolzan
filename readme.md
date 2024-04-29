@@ -27,7 +27,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-lavender?logo=telegram)](https://t.me/aylmerbolzan)
 [![Gmail](https://img.shields.io/badge/Gmail-lavender?logo=gmail)](mailto:aylmer.bolzan@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-lavender?logo=discord)](https://discord.com/users/930384476234743808)
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-lavender?logo=instagram)](https://instagram.com/aylmerbolzan) -->
 
 </div>
 
@@ -99,123 +98,90 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 <summary><strong>Tecnologias e Ferramentas</strong></summary>
 <br>
 
-#### • Linguagens, Frameworks e Libraries
 
----
+#### • Linguagens, Frameworks e Bibliotecas
+![Java](https://custom-icon-badges.demolab.com/badge/-Java-a11015?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-346fa0?style=flat&logo=python&logoColor=f7ca3e)
+![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=flat&logo=javascript&logoColor=323330)
+![HTML5](https://img.shields.io/badge/HTML5-d84924?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2449d8?style=flat&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-35b3eb?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6d11ea?style=flat&logo=bootstrap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6aad3d?style=flat&logo=springboot&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React.JS-2a2c2e?style=flat&logo=react&logoColor=61dafb)
+![Axios](https://img.shields.io/badge/Axios-5527d8?style=flat&logo=axios&logoColor=white)
 
+#### • IDEs, Editores e Extensões
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-1a70a5?style=flat&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2d1e53?style=flat&logo=eclipse&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0073c2?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-b0d579.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
+![Repl.it](https://img.shields.io/badge/Repl.it-f26207?style=flat&logo=replit&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-192931?style=flat&logo=prettier)
+![ESLint](https://img.shields.io/badge/ESLint-4930bd?style=flat&logo=eslint&logoColor=7c7cea)
 
-![HTML5](https://img.shields.io/badge/HTML5-d84924?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2449d8?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6d11ea?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-35b3eb?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=for-the-badge&logo=javascript&logoColor=323330)
-![React](https://img.shields.io/badge/React-2a2c2e?style=for-the-badge&logo=react&logoColor=61dafb)
-![NPM](https://img.shields.io/badge/NPM-c13534?style=for-the-badge&logo=npm&logoColor=white)
-![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.js-679e58?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-346fa0?style=for-the-badge&logo=python&logoColor=f7ca3e)
-![Java](https://custom-icon-badges.demolab.com/badge/-Java-a11015?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6aad3d?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=#005a98)
-![Axios](https://img.shields.io/badge/Axios-5527d8?style=for-the-badge&logo=axios&logoColor=white)
-![JSON](https://img.shields.io/badge/json-303030?style=for-the-badge&logo=json&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-e44c30?style=for-the-badge&logo=git&logoColor=white)
+#### • Ambientes, Sistemas e Shells
+![Docker](https://img.shields.io/badge/Docker-ffffff?style=flat&logo=docker&logoColor=#005a98)
+![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
+![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.js-679e58?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-e44c30?style=flat&logo=git&logoColor=white)
+![ZSH](https://img.shields.io/badge/zShell-ffffff?style=flat&logo=zsh)
+![PowerShell](https://img.shields.io/badge/PowerShell-fff?style=flat&logo=powershell)
 
-<br>
-
-#### • IDEs, Databases e Recursos
-
----
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0073c2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-192931?style=for-the-badge&logo=prettier)
-![ESLint](https://img.shields.io/badge/ESLint-4930bd?style=for-the-badge&logo=eslint&logoColor=7c7cea)
-![Repl.it](https://img.shields.io/badge/Repl.it-f26207?style=for-the-badge&logo=replit&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-1a70a5?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![ZSH](https://img.shields.io/badge/zShell-ffffff?style=for-the-badge&logo=zsh&logoColor=#e95116)
-![Eclipse](https://img.shields.io/badge/Eclipse-2d1e53?style=for-the-badge&logo=eclipse&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-fff?style=for-the-badge&logo=powershell&logoColor=#256db8)
-![Notepad++](https://img.shields.io/badge/Notepad++-b0d579.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-8b7463?style=for-the-badge&logo=dbeaver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30628a?style=for-the-badge&logo=postgresql&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-c3c3c3?style=for-the-badge&logo=github&logoColor=black)
-
-
-<br>
-
-#### • Analytics
-
----
-
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-e97600?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Google Looker](https://img.shields.io/badge/Google%20Looker-3f7ee8?style=for-the-badge&logo=looker&logoColor=white)
-![Hotjar](https://img.shields.io/badge/hotjar-f24755?style=for-the-badge&logo=hotjar&logoColor=white)
-![Wappalyzer](https://img.shields.io/badge/Wappalyzer-4208a4?style=for-the-badge&logo=wappalyzer&logoColor=white)
-![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)
-![Similar Web](https://img.shields.io/badge/Similar%20Web-092540?style=for-the-badge&logo=similarweb&logoColor=f28f00)
-
-<br>
+#### • Banco de Dados e Hosting
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30628a?style=flat&logo=postgresql&logoColor=white)
+![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-8b7463?style=flat&logo=dbeaver&logoColor=white)
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-c3c3c3?style=flat&logo=github&logoColor=black)
+![Github Pages](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=)
 
 #### • Design
-
----
-
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001c33?style=for-the-badge&logo=Adobe%20Photoshop)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-632801?style=for-the-badge&logo=adobe%20illustrator)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-001c33?style=for-the-badge&logo=Adobe%20Lightroom)
-![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-9a9aff?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=37306f)
-![Premiere](https://img.shields.io/badge/Adobe%20Premiere-280031?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
-![Figma](https://img.shields.io/badge/Figma-FFF?style=for-the-badge&logo=figma)
-![Photopea](https://img.shields.io/badge/Photopea-1fa79a?style=for-the-badge&logo=photopea&logoColor=white)
-![Sketch Up](https://img.shields.io/badge/Sketch%20up-0951a0?style=for-the-badge&logo=sketchup&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-8b0038?style=for-the-badge&logo=elementor&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
-
-<br>
+![Photoshop](https://img.shields.io/badge/Photoshop-001c33?style=flat&logo=Adobe%20Photoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-632801?style=flat&logo=adobe%20illustrator)
+![Lightroom](https://img.shields.io/badge/Lightroom-001c33?style=flat&logo=Adobe%20Lightroom)
+![After Effects](https://img.shields.io/badge/after%20affects-9a9aff?style=flat&logo=Adobe%20after%20effects&logoColor=37306f)
+![Premiere](https://img.shields.io/badge/Premiere-280031?style=flat&logo=Adobe%20Premiere%20Pro)
+![Figma](https://img.shields.io/badge/Figma-FFF?style=flat&logo=figma)
+![Photopea](https://img.shields.io/badge/Photopea-1fa79a?style=flat&logo=photopea&logoColor=white)
+![Sketch Up](https://img.shields.io/badge/Sketch%20up-0951a0?style=flat&logo=sketchup&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-8b0038?style=flat&logo=elementor&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
 
 #### • E-commerce e Marketing
+![Magento](https://img.shields.io/badge/Magento-e65e20?style=flat&logo=magento&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-1f6f93?style=flat&logo=wordpress&logoColor=white)
+![Yoast](https://img.shields.io/badge/Yoast-9d2666?style=flat&logo=yoast)
+![Wix](https://img.shields.io/badge/Wix-1c1c1a?style=flat&logo=wix&logoColor=ecbc35)
+![Joomla](https://img.shields.io/badge/Joomla-184170?style=flat&logo=joomla&logoColor=74b740)
+![Blogger](https://img.shields.io/badge/Blogger-f25320?style=flat&logo=blogger&logoColor=white)
+![Tag Manager](https://img.shields.io/badge/%20Tag%20Manager-83abeb?style=flat&logo=googletagmanager&logoColor=white)
+![Page Speed](https://img.shields.io/badge/PageSpeed-d7d7d7?style=flat&logo=PageSpeedInsights)
 
----
+#### • Analytics e Email Marketing
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-e97600?style=flat&logo=google%20analytics&logoColor=white)
+![Google Looker](https://img.shields.io/badge/Google%20Looker-3f7ee8?style=flat&logo=looker&logoColor=white)
+![Hotjar](https://img.shields.io/badge/hotjar-f24755?style=flat&logo=hotjar&logoColor=white)
+![Wappalyzer](https://img.shields.io/badge/Wappalyzer-4208a4?style=flat&logo=wappalyzer&logoColor=white)
+![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=WakaTime&logoColor=white)
+![Similar Web](https://img.shields.io/badge/Similar%20Web-092540?style=flat&logo=similarweb&logoColor=f28f00)
+![SEMRush](https://img.shields.io/badge/SEMRush-fff?style=flat&logo=semrush&logoColor=)
+![Meta Ads](https://custom-icon-badges.demolab.com/badge/-Meta%20Ads-1777f4?style=flat&logo=meta&logoColor=white)
+![Google Ads](https://custom-icon-badges.demolab.com/badge/-Google%20Ads-5a5e61?style=flat&logo=googleads)
+![Search Console](https://img.shields.io/badge/Search%20Console-dd4b39?style=flat&logo=googlesearchconsole&logoColor=white)
+![Google My Business](https://img.shields.io/badge/Google%20My%20Business-4683e8?style=flat&logo=googlemybusiness&logoColor=white)
+![Zoho Campaigns](https://img.shields.io/badge/Zoho%20Campaigns-d82325?style=flat&logo=zoho&logoColor=white)
+![RD Station](https://img.shields.io/badge/RD%20Station-273b63?style=flat&logo=rider&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black)
 
-![Magento](https://img.shields.io/badge/Magento-e65e20?style=for-the-badge&logo=magento&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-1f6f93?style=for-the-badge&logo=wordpress&logoColor=white)
-![Yoast](https://img.shields.io/badge/Yoast-9d2666?style=for-the-badge&logo=yoast)
-![Wix](https://img.shields.io/badge/Wix-1c1c1a?style=for-the-badge&logo=wix&logoColor=ecbc35)
-![Joomla](https://img.shields.io/badge/Joomla-184170?style=for-the-badge&logo=joomla&logoColor=74b740)
-![Blogger](https://img.shields.io/badge/Blogger-f25320?style=for-the-badge&logo=blogger&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-83abeb?style=for-the-badge&logo=googletagmanager&logoColor=white)
-![Google Page Speed Insights](https://img.shields.io/badge/Google%20PageSpeed%20Insights-d7d7d7?style=for-the-badge&logo=PageSpeedInsights)
-![Facebook Ads](https://custom-icon-badges.demolab.com/badge/-Facebook%20Ads-1777f4?style=for-the-badge&logo=facebook&logoColor=white)
-![Google Ads](https://custom-icon-badges.demolab.com/badge/-Google%20Ads-5a5e63?style=for-the-badge&logo=googleads)
-![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-dd4b39?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
-![Google My Business](https://img.shields.io/badge/Google%20My%20Business-4683e8?style=for-the-badge&logo=googlemybusiness&logoColor=white)
-
-
-<br>
-
-#### • Email Marketing
-
----
-
-![Zoho Campaigns](https://img.shields.io/badge/Zoho%20Campaigns-d82325?style=for-the-badge&logo=zoho&logoColor=white)
-![RD Station](https://img.shields.io/badge/RD%20Station-273b63?style=for-the-badge&logo=rider&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
-
-<br>
-
-#### • Office
-
----
-
-![Trello](https://img.shields.io/badge/Trello-0073b5?style=for-the-badge&logo=trello&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-1f9c5f?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
-![TypeForm](https://custom-icon-badges.demolab.com/badge/TypeForm-262627?style=for-the-badge&logo=typeform&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/Chat%20GPT-6ea194?style=for-the-badge&logo=openai&logoColor=white)
-![Google Keep](https://img.shields.io/badge/Google%20Keep-FFBB00?style=for-the-badge&logo=googlekeep&logoColor=black)
-![Prezi](https://img.shields.io/badge/Prezi-2f7af2?style=for-the-badge&logo=prezi&logoColor=white)
+#### • OS e Ferramentas
+![Linux](https://img.shields.io/badge/Linux-6073b5?style=flat&logo=Linux)
+![Linux Mint](https://img.shields.io/badge/LinuxMint-gray?style=flat&logo=linuxmint)
+![Windows](https://img.shields.io/badge/Windows-0073b5?style=flat&logo=windows&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-485267?style=flat&logo=firefox)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-1f9c5f?style=flat&logo=google-sheets&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-F7C922?style=flat&logo=Miro&logoColor=050036)
+![TypeForm](https://custom-icon-badges.demolab.com/badge/TypeForm-262627?style=flat&logo=typeform&logoColor=white)
+![Prezi](https://img.shields.io/badge/Prezi-2f7af2?style=flat&logo=prezi&logoColor=white)
 
 
 </details>
