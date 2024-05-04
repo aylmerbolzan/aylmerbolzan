@@ -96,7 +96,6 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 
 <details closed>
 <summary><strong>Tecnologias e Ferramentas</strong></summary>
-<br>
 
 
 #### • Linguagens, Frameworks e Bibliotecas
@@ -116,7 +115,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-1a70a5?style=flat&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2d1e53?style=flat&logo=eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0073c2?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-b0d579.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
+![Notepad++](https://img.shields.io/badge/Notepad++-b0d579?style=flat&logo=notepad%2B%2B&logoColor=black)
 ![Repl.it](https://img.shields.io/badge/Repl.it-f26207?style=flat&logo=replit&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-192931?style=flat&logo=prettier)
 ![ESLint](https://img.shields.io/badge/ESLint-4930bd?style=flat&logo=eslint&logoColor=7c7cea)
@@ -124,7 +123,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 #### • Ambientes, Sistemas e Shells
 ![Docker](https://img.shields.io/badge/Docker-ffffff?style=flat&logo=docker&logoColor=#005a98)
 ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
-![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.js-679e58?style=flat&logo=node.js&logoColor=white)
+![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.JS-679e58?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-e44c30?style=flat&logo=git&logoColor=white)
 ![ZSH](https://img.shields.io/badge/zShell-ffffff?style=flat&logo=zsh)
 ![PowerShell](https://img.shields.io/badge/PowerShell-fff?style=flat&logo=powershell)
@@ -139,17 +138,17 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 ![Photoshop](https://img.shields.io/badge/Photoshop-001c33?style=flat&logo=Adobe%20Photoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-632801?style=flat&logo=adobe%20illustrator)
 ![Lightroom](https://img.shields.io/badge/Lightroom-001c33?style=flat&logo=Adobe%20Lightroom)
-![After Effects](https://img.shields.io/badge/after%20affects-9a9aff?style=flat&logo=Adobe%20after%20effects&logoColor=37306f)
+![After Effects](https://img.shields.io/badge/After%20Effects-9a9aff?style=flat&logo=Adobe%20after%20effects&logoColor=37306f)
 ![Premiere](https://img.shields.io/badge/Premiere-280031?style=flat&logo=Adobe%20Premiere%20Pro)
 ![Figma](https://img.shields.io/badge/Figma-FFF?style=flat&logo=figma)
 ![Photopea](https://img.shields.io/badge/Photopea-1fa79a?style=flat&logo=photopea&logoColor=white)
-![Sketch Up](https://img.shields.io/badge/Sketch%20up-0951a0?style=flat&logo=sketchup&logoColor=white)
+![Sketch Up](https://img.shields.io/badge/Sketch%20Up-0951a0?style=flat&logo=sketchup&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-8b0038?style=flat&logo=elementor&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?&style=flat&logo=Canva&logoColor=white)
 
 #### • E-commerce e Marketing
 ![Magento](https://img.shields.io/badge/Magento-e65e20?style=flat&logo=magento&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-1f6f93?style=flat&logo=wordpress&logoColor=white)
+![Wordpress](https://img.shields.io/badge/WordPress-1f6f93?style=flat&logo=wordpress&logoColor=white)
 ![Yoast](https://img.shields.io/badge/Yoast-9d2666?style=flat&logo=yoast)
 ![Wix](https://img.shields.io/badge/Wix-1c1c1a?style=flat&logo=wix&logoColor=ecbc35)
 ![Joomla](https://img.shields.io/badge/Joomla-184170?style=flat&logo=joomla&logoColor=74b740)
@@ -160,7 +159,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 #### • Analytics e Email Marketing
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-e97600?style=flat&logo=google%20analytics&logoColor=white)
 ![Google Looker](https://img.shields.io/badge/Google%20Looker-3f7ee8?style=flat&logo=looker&logoColor=white)
-![Hotjar](https://img.shields.io/badge/hotjar-f24755?style=flat&logo=hotjar&logoColor=white)
+![Hotjar](https://img.shields.io/badge/Hotjar-f24755?style=flat&logo=hotjar&logoColor=white)
 ![Wappalyzer](https://img.shields.io/badge/Wappalyzer-4208a4?style=flat&logo=wappalyzer&logoColor=white)
 ![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=flat&logo=WakaTime&logoColor=white)
 ![Similar Web](https://img.shields.io/badge/Similar%20Web-092540?style=flat&logo=similarweb&logoColor=f28f00)
