@@ -130,6 +130,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 
 #### • Banco de Dados e Hosting
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30628a?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-c1cdda?style=flat&logo=sqlite&logoColor=1784ce)
 ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-8b7463?style=flat&logo=dbeaver&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-c3c3c3?style=flat&logo=github&logoColor=black)
 ![Github Pages](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=)
