@@ -3,6 +3,7 @@
 <div align="center">
 <b><img width="12"
   src="https://skillicons.dev/icons?i=java"> Java | <img width="12"
+  src="https://skillicons.dev/icons?i=spring"> Spring | <img width="12"
   src="https://skillicons.dev/icons?i=javascript"> JavaScript | <img width="12"
   src="https://skillicons.dev/icons?i=nodejs"> Node | <img width="12"
   src="https://skillicons.dev/icons?i=react"> React | <img width="12"
