@@ -5,8 +5,8 @@
   src="https://skillicons.dev/icons?i=java"> Java | <img width="12"
   src="https://skillicons.dev/icons?i=spring"> Spring | <img width="12"
   src="https://skillicons.dev/icons?i=javascript"> JavaScript | <img width="12"
-  src="https://skillicons.dev/icons?i=nodejs"> Node | <img width="12"
-  src="https://skillicons.dev/icons?i=react"> React | <img width="12"
+  src="https://skillicons.dev/icons?i=nodejs"> Node.JS | <img width="12"
+  src="https://skillicons.dev/icons?i=react"> React.JS | <img width="12"
   src="https://skillicons.dev/icons?i=python"> Python | <img width="12"
   src="https://skillicons.dev/icons?i=postgresql"> PostgreSQL</b>
 <br>
