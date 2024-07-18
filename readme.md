@@ -108,7 +108,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-35b3eb?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6d11ea?style=flat&logo=bootstrap&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6aad3d?style=flat&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6aad3d?style=flat&logo=spring&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React.JS-2a2c2e?style=flat&logo=react&logoColor=61dafb)
 ![Axios](https://img.shields.io/badge/Axios-5527d8?style=flat&logo=axios&logoColor=white)
 
