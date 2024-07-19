@@ -149,6 +149,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?&style=flat&logo=Canva&logoColor=white)
 
 #### • E-commerce e Marketing
+![Shopify](https://img.shields.io/badge/Shopify-74b02e?style=flat&logo=shopify&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-e65e20?style=flat&logo=magento&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/WordPress-1f6f93?style=flat&logo=wordpress&logoColor=white)
 ![Yoast](https://img.shields.io/badge/Yoast-9d2666?style=flat&logo=yoast)
