@@ -151,6 +151,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 #### • E-commerce e Marketing
 ![Shopify](https://img.shields.io/badge/Shopify-74b02e?style=flat&logo=shopify&logoColor=white)
 ![Tray](https://img.shields.io/badge/Tray-0c084f?style=flat&logo=tray&logoColor=white)
+![Loja Integrada](https://img.shields.io/badge/Loja%20Integrada-2abebd?style=flat&logo=lojaintegrada&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-e65e20?style=flat&logo=magento&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/WordPress-1f6f93?style=flat&logo=wordpress&logoColor=white)
 ![Yoast](https://img.shields.io/badge/Yoast-9d2666?style=flat&logo=yoast)
