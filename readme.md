@@ -110,6 +110,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6d11ea?style=flat&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6aad3d?style=flat&logo=spring&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React.JS-2a2c2e?style=flat&logo=react&logoColor=61dafb)
+![GWT](https://img.shields.io/badge/GWT-f03333?style=flat&logo=google&logoColor=404040)
 ![Axios](https://img.shields.io/badge/Axios-5527d8?style=flat&logo=axios&logoColor=white)
 
 #### • IDEs, Editores e Extensões
@@ -186,6 +187,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=flat&logo=Miro&logoColor=050036)
 ![TypeForm](https://custom-icon-badges.demolab.com/badge/TypeForm-262627?style=flat&logo=typeform&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-2f7af2?style=flat&logo=prezi&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-242424?style=flat&logo=notion&logoColor=white)
 
 
 </details>
