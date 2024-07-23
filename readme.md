@@ -117,6 +117,7 @@ Se você está procurando por alguém apaixonado por tecnologia, com experiênci
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-1a70a5?style=flat&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2d1e53?style=flat&logo=eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0073c2?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Postman-ea6631?style=flat&logo=postman&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-b0d579?style=flat&logo=notepad%2B%2B&logoColor=black)
 ![Repl.it](https://img.shields.io/badge/Repl.it-f26207?style=flat&logo=replit&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-192931?style=flat&logo=prettier)
