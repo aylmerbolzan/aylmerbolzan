@@ -14,7 +14,7 @@
 
 <blockquote>
     <p><i>
-        Sou um explorador incansável no vasto universo da tecnologia, constantemente em busca de novos conhecimentos e desafios. Com um conjunto de habilidades afiadas e uma visão ampla, tenho a capacidade de transformar ideias em realidade e solucionar problemas de maneira criativa e eficiente. Estou sempre empenhado em impulsionar projetos para a frente, com um espírito inovador e determinação. 🚀
+        Entusiasta de tecnologia, sempre em busca de aprendizado e novos desafios. Com habilidades afiadas e uma visão estratégica, transformo ideias em soluções práticas e eficientes. Impulsiono projetos com criatividade e determinação, explorando novas possibilidades e entregando resultados consistentes.
 </blockquote>
 </div>
 
