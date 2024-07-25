@@ -44,18 +44,13 @@
     </a>
 </div>
 
-Olá! Me chamo [**Aylmer Bolzan**](https://bento.me/aylmer).
+Olá! Sou [**Aylmer Bolzan**](https://bento.me/aylmer), um apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados.
 
-Sou apaixonado por tecnologia desde muito jovem, sempre buscando conhecimento, novos desafios e voos longínquos.
+Minha trajetória me deu a chance de trabalhar ao lado de profissionais brilhantes e explorar diversas áreas do universo tecnológico. Com isso, adquiri um conjunto amplo de habilidades e uma visão integrada que conecta diferentes aspectos da tecnologia.
 
-Ao longo dos anos, tive a oportunidade incrível de trabalhar com profissionais talentosos e explorar diversas áreas do universo da tecnologia. Essa experiência me proporcionou habilidades valiosas e uma visão ampla sobre vários pontos que se conectam entre si.
+Além de atuar como desenvolvedor full-stack, também tenho experiência em áreas como business intelligence, e-commerce, marketing e design. Sempre colaborei com equipes de alta performance, o que me ajudou a expandir meu conhecimento e a criar soluções eficazes. Atualmente, sou Desenvolvedor na E&L Produções de Software, idealizador do [SALVIA.eco.br](https://www.salvia.eco.br) e contribuo ativamente em projetos pessoais e open-source.
 
-Sou desenvolvedor full-stack, com expertise em desenvolvimento front-end e estou aprofundando cada vez mais meus conhecimentos em back-end. Além disso, já atuei em áreas correlacionadas como business intelligence, e-commerce, marketing e design, colaborando com equipes de alto nível.
-
-Atualmente sou Desenvolvedor na E&L Produções de Software, idealizei o [SALVIA.eco.br](https://www.salvia.eco.br), e-commerce de biocosméticos, além de colaborar em projetos particulares e também em projetos open-source, adquirindo conhecimento e contribuindo com a comunidade, sempre em busca de aprendizado e crescimento na área.
-
-Se você está procurando por alguém apaixonado por tecnologia, com experiência diversificada e sede de conhecimento, estou aqui pronto para encarar os desafios e fazer a diferença. Vamos juntos construir algo incrível!
-
+Se você procura alguém movido pela curiosidade tecnológica, com experiência diversa e disposição para encarar desafios de forma criativa, estou aqui para colaborar e construir soluções inovadoras. Vamos transformar ideias em realidade juntos!
 
 </details>
 
