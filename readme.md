@@ -38,11 +38,11 @@
 
 ---
 
-<div align="right" style="margin:auto">
+<!-- <div align="right" style="margin:auto">
         <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylmerbolzan&theme=dracula&custom_title=Linguagens%20que%20mais%20utilizo:"
        alt="Most used languages" align="right">
     </a>
-</div>
+</div> -->
 
 Olá! Sou [**Aylmer Bolzan**](https://bento.me/aylmer), um apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados.
 
