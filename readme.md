@@ -100,6 +100,7 @@ Se você procura alguém movido pela curiosidade tecnológica, com experiência 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=flat&logo=javascript&logoColor=323330)
 ![HTML5](https://img.shields.io/badge/HTML5-d84924?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2449d8?style=flat&logo=css3&logoColor=white)
+![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.JS-679e58?style=flat&logo=node.js&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-35b3eb?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6d11ea?style=flat&logo=bootstrap&logoColor=white)
@@ -121,7 +122,6 @@ Se você procura alguém movido pela curiosidade tecnológica, com experiência 
 #### • Ambientes, Sistemas e Shells
 ![Docker](https://img.shields.io/badge/Docker-ffffff?style=flat&logo=docker&logoColor=#005a98)
 ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
-![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.JS-679e58?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-e44c30?style=flat&logo=git&logoColor=white)
 ![ZSH](https://img.shields.io/badge/zShell-ffffff?style=flat&logo=zsh)
 ![PowerShell](https://img.shields.io/badge/PowerShell-fff?style=flat&logo=powershell)
