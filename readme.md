@@ -113,7 +113,7 @@ Se você procura alguém movido pela curiosidade tecnológica, com experiência 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-1a70a5?style=flat&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2d1e53?style=flat&logo=eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0073c2?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Postman-ea6631?style=flat&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ea6631?style=flat&logo=postman&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-b0d579?style=flat&logo=notepad%2B%2B&logoColor=black)
 ![Repl.it](https://img.shields.io/badge/Repl.it-f26207?style=flat&logo=replit&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-192931?style=flat&logo=prettier)
@@ -122,6 +122,7 @@ Se você procura alguém movido pela curiosidade tecnológica, com experiência 
 #### • Ambientes, Sistemas e Shells
 ![Docker](https://img.shields.io/badge/Docker-ffffff?style=flat&logo=docker&logoColor=#005a98)
 ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
+![Github Desktop](https://img.shields.io/badge/Github%20Desktop-792d9d?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-e44c30?style=flat&logo=git&logoColor=white)
 ![ZSH](https://img.shields.io/badge/zShell-ffffff?style=flat&logo=zsh)
 ![PowerShell](https://img.shields.io/badge/PowerShell-fff?style=flat&logo=powershell)
