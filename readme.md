@@ -1,12 +1,14 @@
 <h1 align="center"> Aylmer Bolzan </h1>
 
 <div align="center">
+<b>🛒 E-commerce &nbsp;&bull;&nbsp; 📣 Marketing &nbsp;&bull;&nbsp; 💻 Desenvolvimento</b>
+<br>
 <b><img width="12"
+  src="https://skillicons.dev/icons?i=shopify"> Shopify | <img width="12"
+  src="https://skillicons.dev/icons?i=wordpress"> WordPress | <img width="12"
   src="https://skillicons.dev/icons?i=java"> Java | <img width="12"
-  src="https://skillicons.dev/icons?i=spring"> Spring | <img width="12"
-  src="https://skillicons.dev/icons?i=javascript"> JavaScript | <img width="12"
-  src="https://skillicons.dev/icons?i=nodejs"> Node.JS | <img width="12"
-  src="https://skillicons.dev/icons?i=react"> React.JS | <img width="12"
+  src="https://skillicons.dev/icons?i=react"> React | <img width="12"
+  src="https://skillicons.dev/icons?i=nodejs"> Node.js | <img width="12"
   src="https://skillicons.dev/icons?i=python"> Python | <img width="12"
   src="https://skillicons.dev/icons?i=postgresql"> PostgreSQL</b>
 <br>
@@ -14,7 +16,8 @@
 
 <blockquote>
     <p><i>
-        Entusiasta de tecnologia, sempre em busca de aprendizado e novos desafios. Com habilidades afiadas e uma visão estratégica, transformo ideias em soluções práticas e eficientes. Impulsiono projetos com criatividade e determinação, explorando novas possibilidades e entregando resultados consistentes.
+        Conectando negócios e tecnologia para transformar visitantes em clientes e código em faturamento.
+    </i></p>
 </blockquote>
 </div>
 
@@ -44,13 +47,14 @@
     </a>
 </div> -->
 
-Olá! Sou [**Aylmer Bolzan**](https://bento.me/aylmer), um apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados.
+Olá! Sou [**Aylmer Bolzan**](https://bolzan.tech), profissional com mais de 14 anos de trajetória unindo negócios, marketing digital e tecnologia. 
 
-Minha trajetória me deu a chance de trabalhar ao lado de profissionais brilhantes e explorar diversas áreas do universo tecnológico. Com isso, adquiri um conjunto amplo de habilidades e uma visão integrada que conecta diferentes aspectos da tecnologia.
+Minha jornada profissional é pautada em ajudar empresas a estruturar e tracionar suas operações digitais, resolvendo desafios complexos de ponta a ponta:
+- **Gestão de E-commerce:** Planejamento, operação, logística e integrações de plataformas (Shopify, Magento, Tray) com ERPs e CRMs.
+- **Growth Marketing & Analytics:** Gestão de mídia paga (Google/Meta Ads), SEO, CRO e Business Intelligence (dashboards para tomadas de decisão de vendas).
+- **Desenvolvimento Full Stack:** Construção de soluções personalizadas utilizando Java, React, Node.js, Python e PostgreSQL.
 
-Além de atuar como desenvolvedor full-stack, também tenho experiência em áreas como business intelligence, e-commerce, marketing e design. Sempre colaborei com equipes de alta performance, o que me ajudou a expandir meu conhecimento e a criar soluções eficazes. Atualmente, sou Desenvolvedor na E&L Produções de Software, idealizador do [SALVIA.eco.br](https://www.salvia.eco.br) e contribuo ativamente em projetos pessoais e open-source.
-
-Se você procura alguém movido pela curiosidade tecnológica, com experiência diversa e disposição para encarar desafios de forma criativa, estou aqui para colaborar e construir soluções inovadoras. Vamos transformar ideias em realidade juntos!
+Acredito que a tecnologia atinge seu real propósito quando gera valor de negócio e simplifica a vida do cliente. Atualmente, atuo como Desenvolvedor na E&L Produções de Software, sou idealizador do [SALVIA.eco.br](https://www.salvia.eco.br) e contribuo ativamente em projetos pessoais e open-source.
 
 </details>
 
@@ -204,23 +208,29 @@ Se você procura alguém movido pela curiosidade tecnológica, com experiência 
 
 **Desenvolvedor** \
 [**EL Produções de Software**](https://www.el.com.br) • Mar. 2023 - Atualmente \
-Ferramentas & Tecnologias: `GWT`, `Java`, `React`, `PostgreSQL`, `Eclipse`, `DBeaver`, `Trello`, `outras...`
+*Desenvolvimento de sistemas corporativos de alta complexidade.*
+- Evolução de features web utilizando `Java`, `GWT` e `React`.
+- Modelagem e otimização de consultas e relatórios em banco de dados `PostgreSQL`.
 
 <br/>
 
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/salvia.jpg"/>](https://www.salvia.eco.br)
 
 **Co-Founder & CMO** \
-[**SALVIA - Cosméticos Naturais**](https://www.salvia.eco.br) • Ago. 2018 - Fev. 2023 \
-Ferramentas & Tecnologias: `Tray Commerce`, `Google Ads`, `Facebook Ads`, `Taboola Ads`, `Zoho Campaigns`, `outras...`
+[**SALVIA - Cosméticos Naturais**](https://www.salvia.eco.br) • Ago. 2018 - Atualmente \
+*Liderança estratégica da operação digital (D2C).*
+- Implantação do e-commerce (`Tray`) e integrações (ERP/CRM/gateways).
+- Gestão de tráfego pago (`Meta/Google Ads`), analytics (`Looker Studio`) e retenção via email marketing.
 
 <br/>
 
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/cpaps.jpg"/>](https://www.cpaps.com.br)
 
-**Coordenador de E-commerce** \
+**Coordenador de E-commerce / Gerente de Marketing** \
 [**CPAPS - Terapia do Sono**](https://www.cpaps.com.br) • Dez. 2017 - Mai. 2021 \
-Ferramentas & Tecnologias: `Magento`, `Google Analytics`, `Hotjar`, `Google Tag Manager`, `RD Station`, `outras...`
+*Gestão de canais digitais e tráfego orgânico/pago da marca líder no segmento.*
+- Liderança de equipes multidisciplinares (marketing, design e devs).
+- Implantação de BI, estratégias de SEO de alta performance e funil de conversão no e-commerce (`Magento`).
 
 <br/>
 
