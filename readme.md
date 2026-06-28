@@ -87,7 +87,7 @@ Acredito que a tecnologia atinge seu real propósito quando gera valor de negóc
 </div>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=aylmerbolzan&theme=dracula&margin-w=5&margin-h=5&column=-1" alt="Trophy" width="90%">
+  <img src="https://github-trophies.vercel.app/?username=aylmerbolzan&theme=dracula&margin-w=5&margin-h=5&column=6" alt="Trophy" width="90%">
 </div>
 </a>
 <br>
